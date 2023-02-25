@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "98c58ef0",
+   "id": "ad7a8823",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:05.140885Z",
-     "iopub.status.busy": "2023-02-25T06:57:05.140415Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.204056Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.202362Z"
+     "iopub.execute_input": "2023-02-25T07:28:38.275306Z",
+     "iopub.status.busy": "2023-02-25T07:28:38.274837Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.298552Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.297336Z"
     },
     "papermill": {
-     "duration": 1.086157,
-     "end_time": "2023-02-25T06:57:06.207155",
+     "duration": 1.048277,
+     "end_time": "2023-02-25T07:28:39.301422",
      "exception": false,
-     "start_time": "2023-02-25T06:57:05.120998",
+     "start_time": "2023-02-25T07:28:38.253145",
      "status": "completed"
     },
     "tags": []
@@ -57,19 +57,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "f147e7e5",
+   "id": "6cea8634",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.239698Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.239308Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.263742Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.262355Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.342332Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.341317Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.365765Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.364673Z"
     },
     "papermill": {
-     "duration": 0.044279,
-     "end_time": "2023-02-25T06:57:06.266905",
+     "duration": 0.048613,
+     "end_time": "2023-02-25T07:28:39.368617",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.222626",
+     "start_time": "2023-02-25T07:28:39.320004",
      "status": "completed"
     },
     "tags": []
@@ -82,19 +82,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "0f9df8b0",
+   "id": "5cca93ec",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.300935Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.300158Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.313043Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.312005Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.408976Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.408128Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.421700Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.420466Z"
     },
     "papermill": {
-     "duration": 0.032461,
-     "end_time": "2023-02-25T06:57:06.315682",
+     "duration": 0.037166,
+     "end_time": "2023-02-25T07:28:39.424411",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.283221",
+     "start_time": "2023-02-25T07:28:39.387245",
      "status": "completed"
     },
     "tags": []
@@ -107,19 +107,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "9a5b5991",
+   "id": "da2d923a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.348940Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.348435Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.373231Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.372028Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.463193Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.462738Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.486882Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.485695Z"
     },
     "papermill": {
-     "duration": 0.044973,
-     "end_time": "2023-02-25T06:57:06.376106",
+     "duration": 0.046432,
+     "end_time": "2023-02-25T07:28:39.489314",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.331133",
+     "start_time": "2023-02-25T07:28:39.442882",
      "status": "completed"
     },
     "tags": []
@@ -275,19 +275,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "9c19eadb",
+   "id": "4467abe8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.409532Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.409106Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.426160Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.425311Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.528711Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.527914Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.543813Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.542670Z"
     },
     "papermill": {
-     "duration": 0.036368,
-     "end_time": "2023-02-25T06:57:06.428432",
+     "duration": 0.038122,
+     "end_time": "2023-02-25T07:28:39.546066",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.392064",
+     "start_time": "2023-02-25T07:28:39.507944",
      "status": "completed"
     },
     "tags": []
@@ -430,19 +430,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "3f930c7a",
+   "id": "54d5336d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.462397Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.461966Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.507448Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.506243Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.586359Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.585907Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.627669Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.626887Z"
     },
     "papermill": {
-     "duration": 0.065394,
-     "end_time": "2023-02-25T06:57:06.510370",
+     "duration": 0.064539,
+     "end_time": "2023-02-25T07:28:39.630013",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.444976",
+     "start_time": "2023-02-25T07:28:39.565474",
      "status": "completed"
     },
     "tags": []
@@ -597,19 +597,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "3f485634",
+   "id": "24e5aafd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.544592Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.544134Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.575049Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.574133Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.670778Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.670067Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.697089Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.696182Z"
     },
     "papermill": {
-     "duration": 0.050809,
-     "end_time": "2023-02-25T06:57:06.577557",
+     "duration": 0.050224,
+     "end_time": "2023-02-25T07:28:39.699382",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.526748",
+     "start_time": "2023-02-25T07:28:39.649158",
      "status": "completed"
     },
     "tags": []
@@ -744,13 +744,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4d00a98b",
+   "id": "4182befd",
    "metadata": {
     "papermill": {
-     "duration": 0.016246,
-     "end_time": "2023-02-25T06:57:06.610385",
+     "duration": 0.019235,
+     "end_time": "2023-02-25T07:28:39.738625",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.594139",
+     "start_time": "2023-02-25T07:28:39.719390",
      "status": "completed"
     },
     "tags": []
@@ -767,19 +767,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "d99f51b2",
+   "id": "ddbf08b1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.644892Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.644434Z",
-     "iopub.status.idle": "2023-02-25T06:57:06.651717Z",
-     "shell.execute_reply": "2023-02-25T06:57:06.650588Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.779308Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.778652Z",
+     "iopub.status.idle": "2023-02-25T07:28:39.784419Z",
+     "shell.execute_reply": "2023-02-25T07:28:39.783481Z"
     },
     "papermill": {
-     "duration": 0.027056,
-     "end_time": "2023-02-25T06:57:06.653982",
+     "duration": 0.028546,
+     "end_time": "2023-02-25T07:28:39.786493",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.626926",
+     "start_time": "2023-02-25T07:28:39.757947",
      "status": "completed"
     },
     "tags": []
@@ -802,13 +802,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "483660dd",
+   "id": "2c0e0b4c",
    "metadata": {
     "papermill": {
-     "duration": 0.016101,
-     "end_time": "2023-02-25T06:57:06.686601",
+     "duration": 0.019441,
+     "end_time": "2023-02-25T07:28:39.825470",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.670500",
+     "start_time": "2023-02-25T07:28:39.806029",
      "status": "completed"
     },
     "tags": []
@@ -826,19 +826,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "f9f3c3b8",
+   "id": "ab2c70e2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:06.721466Z",
-     "iopub.status.busy": "2023-02-25T06:57:06.721016Z",
-     "iopub.status.idle": "2023-02-25T06:57:07.006798Z",
-     "shell.execute_reply": "2023-02-25T06:57:07.005256Z"
+     "iopub.execute_input": "2023-02-25T07:28:39.866354Z",
+     "iopub.status.busy": "2023-02-25T07:28:39.865935Z",
+     "iopub.status.idle": "2023-02-25T07:28:40.149244Z",
+     "shell.execute_reply": "2023-02-25T07:28:40.147960Z"
     },
     "papermill": {
-     "duration": 0.306183,
-     "end_time": "2023-02-25T06:57:07.009610",
+     "duration": 0.307094,
+     "end_time": "2023-02-25T07:28:40.151922",
      "exception": false,
-     "start_time": "2023-02-25T06:57:06.703427",
+     "start_time": "2023-02-25T07:28:39.844828",
      "status": "completed"
     },
     "tags": []
@@ -875,19 +875,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "2ec505a2",
+   "id": "55cf7072",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:07.045470Z",
-     "iopub.status.busy": "2023-02-25T06:57:07.044393Z",
-     "iopub.status.idle": "2023-02-25T06:57:07.352526Z",
-     "shell.execute_reply": "2023-02-25T06:57:07.351354Z"
+     "iopub.execute_input": "2023-02-25T07:28:40.193754Z",
+     "iopub.status.busy": "2023-02-25T07:28:40.193351Z",
+     "iopub.status.idle": "2023-02-25T07:28:40.490804Z",
+     "shell.execute_reply": "2023-02-25T07:28:40.490014Z"
     },
     "papermill": {
-     "duration": 0.329091,
-     "end_time": "2023-02-25T06:57:07.355580",
+     "duration": 0.321065,
+     "end_time": "2023-02-25T07:28:40.492942",
      "exception": false,
-     "start_time": "2023-02-25T06:57:07.026489",
+     "start_time": "2023-02-25T07:28:40.171877",
      "status": "completed"
     },
     "tags": []
@@ -938,19 +938,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "278629a9",
+   "id": "5319454e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:07.393201Z",
-     "iopub.status.busy": "2023-02-25T06:57:07.392430Z",
-     "iopub.status.idle": "2023-02-25T06:57:07.600322Z",
-     "shell.execute_reply": "2023-02-25T06:57:07.599055Z"
+     "iopub.execute_input": "2023-02-25T07:28:40.537058Z",
+     "iopub.status.busy": "2023-02-25T07:28:40.535886Z",
+     "iopub.status.idle": "2023-02-25T07:28:40.735483Z",
+     "shell.execute_reply": "2023-02-25T07:28:40.734370Z"
     },
     "papermill": {
-     "duration": 0.229837,
-     "end_time": "2023-02-25T06:57:07.603169",
+     "duration": 0.223848,
+     "end_time": "2023-02-25T07:28:40.737905",
      "exception": false,
-     "start_time": "2023-02-25T06:57:07.373332",
+     "start_time": "2023-02-25T07:28:40.514057",
      "status": "completed"
     },
     "tags": []
@@ -984,19 +984,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "258f7e13",
+   "id": "f357b0b1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:07.643636Z",
-     "iopub.status.busy": "2023-02-25T06:57:07.642461Z",
-     "iopub.status.idle": "2023-02-25T06:57:07.875294Z",
-     "shell.execute_reply": "2023-02-25T06:57:07.873983Z"
+     "iopub.execute_input": "2023-02-25T07:28:40.781998Z",
+     "iopub.status.busy": "2023-02-25T07:28:40.781585Z",
+     "iopub.status.idle": "2023-02-25T07:28:41.004682Z",
+     "shell.execute_reply": "2023-02-25T07:28:41.003504Z"
     },
     "papermill": {
-     "duration": 0.256483,
-     "end_time": "2023-02-25T06:57:07.878573",
+     "duration": 0.248177,
+     "end_time": "2023-02-25T07:28:41.007128",
      "exception": false,
-     "start_time": "2023-02-25T06:57:07.622090",
+     "start_time": "2023-02-25T07:28:40.758951",
      "status": "completed"
     },
     "tags": []
@@ -1030,19 +1030,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "7ef92931",
+   "id": "d3810fda",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:07.918930Z",
-     "iopub.status.busy": "2023-02-25T06:57:07.917427Z",
-     "iopub.status.idle": "2023-02-25T06:57:07.937340Z",
-     "shell.execute_reply": "2023-02-25T06:57:07.936034Z"
+     "iopub.execute_input": "2023-02-25T07:28:41.052517Z",
+     "iopub.status.busy": "2023-02-25T07:28:41.051379Z",
+     "iopub.status.idle": "2023-02-25T07:28:41.070121Z",
+     "shell.execute_reply": "2023-02-25T07:28:41.068957Z"
     },
     "papermill": {
-     "duration": 0.04218,
-     "end_time": "2023-02-25T06:57:07.939752",
+     "duration": 0.043521,
+     "end_time": "2023-02-25T07:28:41.072337",
      "exception": false,
-     "start_time": "2023-02-25T06:57:07.897572",
+     "start_time": "2023-02-25T07:28:41.028816",
      "status": "completed"
     },
     "tags": []
@@ -1242,19 +1242,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "85c1ef7a",
+   "id": "aca1237a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:07.979880Z",
-     "iopub.status.busy": "2023-02-25T06:57:07.978668Z",
-     "iopub.status.idle": "2023-02-25T06:57:07.986060Z",
-     "shell.execute_reply": "2023-02-25T06:57:07.985024Z"
+     "iopub.execute_input": "2023-02-25T07:28:41.117473Z",
+     "iopub.status.busy": "2023-02-25T07:28:41.116820Z",
+     "iopub.status.idle": "2023-02-25T07:28:41.124004Z",
+     "shell.execute_reply": "2023-02-25T07:28:41.123058Z"
     },
     "papermill": {
-     "duration": 0.029744,
-     "end_time": "2023-02-25T06:57:07.988444",
+     "duration": 0.032373,
+     "end_time": "2023-02-25T07:28:41.126114",
      "exception": false,
-     "start_time": "2023-02-25T06:57:07.958700",
+     "start_time": "2023-02-25T07:28:41.093741",
      "status": "completed"
     },
     "tags": []
@@ -1278,19 +1278,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "ec4c5dd7",
+   "id": "87848f03",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:08.028849Z",
-     "iopub.status.busy": "2023-02-25T06:57:08.027621Z",
-     "iopub.status.idle": "2023-02-25T06:57:08.035191Z",
-     "shell.execute_reply": "2023-02-25T06:57:08.033981Z"
+     "iopub.execute_input": "2023-02-25T07:28:41.172483Z",
+     "iopub.status.busy": "2023-02-25T07:28:41.171806Z",
+     "iopub.status.idle": "2023-02-25T07:28:41.179859Z",
+     "shell.execute_reply": "2023-02-25T07:28:41.178620Z"
     },
     "papermill": {
-     "duration": 0.030601,
-     "end_time": "2023-02-25T06:57:08.037944",
+     "duration": 0.034148,
+     "end_time": "2023-02-25T07:28:41.182168",
      "exception": false,
-     "start_time": "2023-02-25T06:57:08.007343",
+     "start_time": "2023-02-25T07:28:41.148020",
      "status": "completed"
     },
     "tags": []
@@ -1313,13 +1313,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4dc4142c",
+   "id": "c8c34e31",
    "metadata": {
     "papermill": {
-     "duration": 0.018412,
-     "end_time": "2023-02-25T06:57:08.075570",
+     "duration": 0.021498,
+     "end_time": "2023-02-25T07:28:41.225795",
      "exception": false,
-     "start_time": "2023-02-25T06:57:08.057158",
+     "start_time": "2023-02-25T07:28:41.204297",
      "status": "completed"
     },
     "tags": []
@@ -1338,19 +1338,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "81e4f7a7",
+   "id": "9c948f2e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:08.115465Z",
-     "iopub.status.busy": "2023-02-25T06:57:08.114842Z",
-     "iopub.status.idle": "2023-02-25T06:57:08.124781Z",
-     "shell.execute_reply": "2023-02-25T06:57:08.123911Z"
+     "iopub.execute_input": "2023-02-25T07:28:41.272219Z",
+     "iopub.status.busy": "2023-02-25T07:28:41.271767Z",
+     "iopub.status.idle": "2023-02-25T07:28:41.284425Z",
+     "shell.execute_reply": "2023-02-25T07:28:41.283326Z"
     },
     "papermill": {
-     "duration": 0.032607,
-     "end_time": "2023-02-25T06:57:08.127114",
+     "duration": 0.038545,
+     "end_time": "2023-02-25T07:28:41.286723",
      "exception": false,
-     "start_time": "2023-02-25T06:57:08.094507",
+     "start_time": "2023-02-25T07:28:41.248178",
      "status": "completed"
     },
     "tags": []
@@ -1382,19 +1382,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "1540a443",
+   "id": "ebc49074",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:08.169988Z",
-     "iopub.status.busy": "2023-02-25T06:57:08.169551Z",
-     "iopub.status.idle": "2023-02-25T06:57:08.424101Z",
-     "shell.execute_reply": "2023-02-25T06:57:08.422837Z"
+     "iopub.execute_input": "2023-02-25T07:28:41.332904Z",
+     "iopub.status.busy": "2023-02-25T07:28:41.332266Z",
+     "iopub.status.idle": "2023-02-25T07:28:41.584507Z",
+     "shell.execute_reply": "2023-02-25T07:28:41.583606Z"
     },
     "papermill": {
-     "duration": 0.279465,
-     "end_time": "2023-02-25T06:57:08.427010",
+     "duration": 0.278029,
+     "end_time": "2023-02-25T07:28:41.586808",
      "exception": false,
-     "start_time": "2023-02-25T06:57:08.147545",
+     "start_time": "2023-02-25T07:28:41.308779",
      "status": "completed"
     },
     "tags": []
@@ -1434,19 +1434,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "cf347189",
+   "id": "754aa113",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:08.467493Z",
-     "iopub.status.busy": "2023-02-25T06:57:08.467085Z",
-     "iopub.status.idle": "2023-02-25T06:57:08.775962Z",
-     "shell.execute_reply": "2023-02-25T06:57:08.774549Z"
+     "iopub.execute_input": "2023-02-25T07:28:41.634680Z",
+     "iopub.status.busy": "2023-02-25T07:28:41.634051Z",
+     "iopub.status.idle": "2023-02-25T07:28:41.972305Z",
+     "shell.execute_reply": "2023-02-25T07:28:41.971328Z"
     },
     "papermill": {
-     "duration": 0.332358,
-     "end_time": "2023-02-25T06:57:08.778750",
+     "duration": 0.364815,
+     "end_time": "2023-02-25T07:28:41.975008",
      "exception": false,
-     "start_time": "2023-02-25T06:57:08.446392",
+     "start_time": "2023-02-25T07:28:41.610193",
      "status": "completed"
     },
     "tags": []
@@ -1497,19 +1497,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "8a9c4604",
+   "id": "d59fdbd8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:08.820260Z",
-     "iopub.status.busy": "2023-02-25T06:57:08.819862Z",
-     "iopub.status.idle": "2023-02-25T06:57:09.067707Z",
-     "shell.execute_reply": "2023-02-25T06:57:09.066846Z"
+     "iopub.execute_input": "2023-02-25T07:28:42.024715Z",
+     "iopub.status.busy": "2023-02-25T07:28:42.024129Z",
+     "iopub.status.idle": "2023-02-25T07:28:42.262036Z",
+     "shell.execute_reply": "2023-02-25T07:28:42.260878Z"
     },
     "papermill": {
-     "duration": 0.271433,
-     "end_time": "2023-02-25T06:57:09.070101",
+     "duration": 0.266172,
+     "end_time": "2023-02-25T07:28:42.264861",
      "exception": false,
-     "start_time": "2023-02-25T06:57:08.798668",
+     "start_time": "2023-02-25T07:28:41.998689",
      "status": "completed"
     },
     "tags": []
@@ -1543,19 +1543,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "5555cbe3",
+   "id": "8af1249d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:09.113818Z",
-     "iopub.status.busy": "2023-02-25T06:57:09.112519Z",
-     "iopub.status.idle": "2023-02-25T06:57:09.119933Z",
-     "shell.execute_reply": "2023-02-25T06:57:09.119058Z"
+     "iopub.execute_input": "2023-02-25T07:28:42.316923Z",
+     "iopub.status.busy": "2023-02-25T07:28:42.316287Z",
+     "iopub.status.idle": "2023-02-25T07:28:42.322391Z",
+     "shell.execute_reply": "2023-02-25T07:28:42.321659Z"
     },
     "papermill": {
-     "duration": 0.031643,
-     "end_time": "2023-02-25T06:57:09.122226",
+     "duration": 0.034664,
+     "end_time": "2023-02-25T07:28:42.324349",
      "exception": false,
-     "start_time": "2023-02-25T06:57:09.090583",
+     "start_time": "2023-02-25T07:28:42.289685",
      "status": "completed"
     },
     "tags": []
@@ -1579,19 +1579,19 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "b583fda0",
+   "id": "c533d78c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:09.165647Z",
-     "iopub.status.busy": "2023-02-25T06:57:09.164482Z",
-     "iopub.status.idle": "2023-02-25T06:57:09.373068Z",
-     "shell.execute_reply": "2023-02-25T06:57:09.371379Z"
+     "iopub.execute_input": "2023-02-25T07:28:42.374824Z",
+     "iopub.status.busy": "2023-02-25T07:28:42.374213Z",
+     "iopub.status.idle": "2023-02-25T07:28:42.572112Z",
+     "shell.execute_reply": "2023-02-25T07:28:42.571156Z"
     },
     "papermill": {
-     "duration": 0.2328,
-     "end_time": "2023-02-25T06:57:09.375547",
+     "duration": 0.225601,
+     "end_time": "2023-02-25T07:28:42.574463",
      "exception": false,
-     "start_time": "2023-02-25T06:57:09.142747",
+     "start_time": "2023-02-25T07:28:42.348862",
      "status": "completed"
     },
     "tags": []
@@ -1625,19 +1625,19 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "7b71236a",
+   "id": "eab72479",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:09.420171Z",
-     "iopub.status.busy": "2023-02-25T06:57:09.419478Z",
-     "iopub.status.idle": "2023-02-25T06:57:09.426869Z",
-     "shell.execute_reply": "2023-02-25T06:57:09.425643Z"
+     "iopub.execute_input": "2023-02-25T07:28:42.625216Z",
+     "iopub.status.busy": "2023-02-25T07:28:42.624754Z",
+     "iopub.status.idle": "2023-02-25T07:28:42.632508Z",
+     "shell.execute_reply": "2023-02-25T07:28:42.631382Z"
     },
     "papermill": {
-     "duration": 0.032551,
-     "end_time": "2023-02-25T06:57:09.429066",
+     "duration": 0.035855,
+     "end_time": "2023-02-25T07:28:42.634708",
      "exception": false,
-     "start_time": "2023-02-25T06:57:09.396515",
+     "start_time": "2023-02-25T07:28:42.598853",
      "status": "completed"
     },
     "tags": []
@@ -1660,13 +1660,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "037d95a9",
+   "id": "ce626f9a",
    "metadata": {
     "papermill": {
-     "duration": 0.020526,
-     "end_time": "2023-02-25T06:57:09.470602",
+     "duration": 0.023829,
+     "end_time": "2023-02-25T07:28:42.682596",
      "exception": false,
-     "start_time": "2023-02-25T06:57:09.450076",
+     "start_time": "2023-02-25T07:28:42.658767",
      "status": "completed"
     },
     "tags": []
@@ -1680,19 +1680,19 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "da9fee60",
+   "id": "7aa584ae",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:09.514537Z",
-     "iopub.status.busy": "2023-02-25T06:57:09.513947Z",
-     "iopub.status.idle": "2023-02-25T06:57:09.521212Z",
-     "shell.execute_reply": "2023-02-25T06:57:09.520156Z"
+     "iopub.execute_input": "2023-02-25T07:28:42.733084Z",
+     "iopub.status.busy": "2023-02-25T07:28:42.732434Z",
+     "iopub.status.idle": "2023-02-25T07:28:42.741014Z",
+     "shell.execute_reply": "2023-02-25T07:28:42.739897Z"
     },
     "papermill": {
-     "duration": 0.032004,
-     "end_time": "2023-02-25T06:57:09.523363",
+     "duration": 0.03642,
+     "end_time": "2023-02-25T07:28:42.743140",
      "exception": false,
-     "start_time": "2023-02-25T06:57:09.491359",
+     "start_time": "2023-02-25T07:28:42.706720",
      "status": "completed"
     },
     "tags": []
@@ -1718,19 +1718,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "4cb95529",
+   "id": "331c8463",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:09.567601Z",
-     "iopub.status.busy": "2023-02-25T06:57:09.566988Z",
-     "iopub.status.idle": "2023-02-25T06:57:09.763079Z",
-     "shell.execute_reply": "2023-02-25T06:57:09.761642Z"
+     "iopub.execute_input": "2023-02-25T07:28:42.793771Z",
+     "iopub.status.busy": "2023-02-25T07:28:42.793141Z",
+     "iopub.status.idle": "2023-02-25T07:28:42.935705Z",
+     "shell.execute_reply": "2023-02-25T07:28:42.934409Z"
     },
     "papermill": {
-     "duration": 0.221182,
-     "end_time": "2023-02-25T06:57:09.765574",
+     "duration": 0.17084,
+     "end_time": "2023-02-25T07:28:42.938246",
      "exception": false,
-     "start_time": "2023-02-25T06:57:09.544392",
+     "start_time": "2023-02-25T07:28:42.767406",
      "status": "completed"
     },
     "tags": []
@@ -1764,19 +1764,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "29c6d153",
+   "id": "230a1f08",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:09.811297Z",
-     "iopub.status.busy": "2023-02-25T06:57:09.810874Z",
-     "iopub.status.idle": "2023-02-25T06:57:09.949976Z",
-     "shell.execute_reply": "2023-02-25T06:57:09.947983Z"
+     "iopub.execute_input": "2023-02-25T07:28:42.991304Z",
+     "iopub.status.busy": "2023-02-25T07:28:42.990489Z",
+     "iopub.status.idle": "2023-02-25T07:28:43.125781Z",
+     "shell.execute_reply": "2023-02-25T07:28:43.124255Z"
     },
     "papermill": {
-     "duration": 0.169329,
-     "end_time": "2023-02-25T06:57:09.956658",
+     "duration": 0.167097,
+     "end_time": "2023-02-25T07:28:43.129920",
      "exception": false,
-     "start_time": "2023-02-25T06:57:09.787329",
+     "start_time": "2023-02-25T07:28:42.962823",
      "status": "completed"
     },
     "tags": []
@@ -1810,19 +1810,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "abf6552d",
+   "id": "2575c0a8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:10.038450Z",
-     "iopub.status.busy": "2023-02-25T06:57:10.037325Z",
-     "iopub.status.idle": "2023-02-25T06:57:10.045089Z",
-     "shell.execute_reply": "2023-02-25T06:57:10.044142Z"
+     "iopub.execute_input": "2023-02-25T07:28:43.220345Z",
+     "iopub.status.busy": "2023-02-25T07:28:43.219329Z",
+     "iopub.status.idle": "2023-02-25T07:28:43.227152Z",
+     "shell.execute_reply": "2023-02-25T07:28:43.225995Z"
     },
     "papermill": {
-     "duration": 0.034463,
-     "end_time": "2023-02-25T06:57:10.047396",
+     "duration": 0.036529,
+     "end_time": "2023-02-25T07:28:43.229398",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.012933",
+     "start_time": "2023-02-25T07:28:43.192869",
      "status": "completed"
     },
     "tags": []
@@ -1845,13 +1845,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f5caa5cf",
+   "id": "370f5b68",
    "metadata": {
     "papermill": {
-     "duration": 0.022923,
-     "end_time": "2023-02-25T06:57:10.093165",
+     "duration": 0.025854,
+     "end_time": "2023-02-25T07:28:43.280735",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.070242",
+     "start_time": "2023-02-25T07:28:43.254881",
      "status": "completed"
     },
     "tags": []
@@ -1865,19 +1865,19 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "021554c7",
+   "id": "84267afc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:10.142071Z",
-     "iopub.status.busy": "2023-02-25T06:57:10.141070Z",
-     "iopub.status.idle": "2023-02-25T06:57:10.152330Z",
-     "shell.execute_reply": "2023-02-25T06:57:10.151229Z"
+     "iopub.execute_input": "2023-02-25T07:28:43.332755Z",
+     "iopub.status.busy": "2023-02-25T07:28:43.332363Z",
+     "iopub.status.idle": "2023-02-25T07:28:43.341511Z",
+     "shell.execute_reply": "2023-02-25T07:28:43.340336Z"
     },
     "papermill": {
-     "duration": 0.039154,
-     "end_time": "2023-02-25T06:57:10.155524",
+     "duration": 0.037809,
+     "end_time": "2023-02-25T07:28:43.343519",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.116370",
+     "start_time": "2023-02-25T07:28:43.305710",
      "status": "completed"
     },
     "tags": []
@@ -1903,19 +1903,19 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "62c9e5d1",
+   "id": "931e9771",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:10.202966Z",
-     "iopub.status.busy": "2023-02-25T06:57:10.202531Z",
-     "iopub.status.idle": "2023-02-25T06:57:10.408562Z",
-     "shell.execute_reply": "2023-02-25T06:57:10.407340Z"
+     "iopub.execute_input": "2023-02-25T07:28:43.396848Z",
+     "iopub.status.busy": "2023-02-25T07:28:43.395729Z",
+     "iopub.status.idle": "2023-02-25T07:28:43.607497Z",
+     "shell.execute_reply": "2023-02-25T07:28:43.606312Z"
     },
     "papermill": {
-     "duration": 0.232764,
-     "end_time": "2023-02-25T06:57:10.411335",
+     "duration": 0.240472,
+     "end_time": "2023-02-25T07:28:43.609915",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.178571",
+     "start_time": "2023-02-25T07:28:43.369443",
      "status": "completed"
     },
     "tags": []
@@ -1949,19 +1949,19 @@
   {
    "cell_type": "code",
    "execution_count": 29,
-   "id": "1c26d5d9",
+   "id": "9e790c0d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:10.458907Z",
-     "iopub.status.busy": "2023-02-25T06:57:10.458446Z",
-     "iopub.status.idle": "2023-02-25T06:57:10.562670Z",
-     "shell.execute_reply": "2023-02-25T06:57:10.561799Z"
+     "iopub.execute_input": "2023-02-25T07:28:43.663906Z",
+     "iopub.status.busy": "2023-02-25T07:28:43.663254Z",
+     "iopub.status.idle": "2023-02-25T07:28:43.782998Z",
+     "shell.execute_reply": "2023-02-25T07:28:43.781698Z"
     },
     "papermill": {
-     "duration": 0.132411,
-     "end_time": "2023-02-25T06:57:10.566798",
+     "duration": 0.151007,
+     "end_time": "2023-02-25T07:28:43.787329",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.434387",
+     "start_time": "2023-02-25T07:28:43.636322",
      "status": "completed"
     },
     "tags": []
@@ -1995,19 +1995,19 @@
   {
    "cell_type": "code",
    "execution_count": 30,
-   "id": "aa6e7390",
+   "id": "1278daea",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:10.667410Z",
-     "iopub.status.busy": "2023-02-25T06:57:10.666944Z",
-     "iopub.status.idle": "2023-02-25T06:57:10.674922Z",
-     "shell.execute_reply": "2023-02-25T06:57:10.674023Z"
+     "iopub.execute_input": "2023-02-25T07:28:43.881276Z",
+     "iopub.status.busy": "2023-02-25T07:28:43.880841Z",
+     "iopub.status.idle": "2023-02-25T07:28:43.887791Z",
+     "shell.execute_reply": "2023-02-25T07:28:43.887008Z"
     },
     "papermill": {
-     "duration": 0.049974,
-     "end_time": "2023-02-25T06:57:10.677266",
+     "duration": 0.036766,
+     "end_time": "2023-02-25T07:28:43.889822",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.627292",
+     "start_time": "2023-02-25T07:28:43.853056",
      "status": "completed"
     },
     "tags": []
@@ -2030,13 +2030,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "207e661d",
+   "id": "051a0016",
    "metadata": {
     "papermill": {
-     "duration": 0.02356,
-     "end_time": "2023-02-25T06:57:10.724684",
+     "duration": 0.025496,
+     "end_time": "2023-02-25T07:28:43.941431",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.701124",
+     "start_time": "2023-02-25T07:28:43.915935",
      "status": "completed"
     },
     "tags": []
@@ -2053,19 +2053,19 @@
   {
    "cell_type": "code",
    "execution_count": 31,
-   "id": "54b7c301",
+   "id": "1ab3ea33",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:10.773577Z",
-     "iopub.status.busy": "2023-02-25T06:57:10.772614Z",
-     "iopub.status.idle": "2023-02-25T06:57:10.780913Z",
-     "shell.execute_reply": "2023-02-25T06:57:10.779832Z"
+     "iopub.execute_input": "2023-02-25T07:28:43.996639Z",
+     "iopub.status.busy": "2023-02-25T07:28:43.996218Z",
+     "iopub.status.idle": "2023-02-25T07:28:44.004449Z",
+     "shell.execute_reply": "2023-02-25T07:28:44.003620Z"
     },
     "papermill": {
-     "duration": 0.035675,
-     "end_time": "2023-02-25T06:57:10.783504",
+     "duration": 0.039025,
+     "end_time": "2023-02-25T07:28:44.006555",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.747829",
+     "start_time": "2023-02-25T07:28:43.967530",
      "status": "completed"
     },
     "tags": []
@@ -2092,19 +2092,19 @@
   {
    "cell_type": "code",
    "execution_count": 32,
-   "id": "295df143",
+   "id": "ca2e7048",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:10.833329Z",
-     "iopub.status.busy": "2023-02-25T06:57:10.832727Z",
-     "iopub.status.idle": "2023-02-25T06:57:11.044519Z",
-     "shell.execute_reply": "2023-02-25T06:57:11.043189Z"
+     "iopub.execute_input": "2023-02-25T07:28:44.061259Z",
+     "iopub.status.busy": "2023-02-25T07:28:44.060642Z",
+     "iopub.status.idle": "2023-02-25T07:28:44.254262Z",
+     "shell.execute_reply": "2023-02-25T07:28:44.253461Z"
     },
     "papermill": {
-     "duration": 0.239944,
-     "end_time": "2023-02-25T06:57:11.047150",
+     "duration": 0.223379,
+     "end_time": "2023-02-25T07:28:44.256373",
      "exception": false,
-     "start_time": "2023-02-25T06:57:10.807206",
+     "start_time": "2023-02-25T07:28:44.032994",
      "status": "completed"
     },
     "tags": []
@@ -2138,19 +2138,19 @@
   {
    "cell_type": "code",
    "execution_count": 33,
-   "id": "3fbbc173",
+   "id": "575cb0b9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:11.097105Z",
-     "iopub.status.busy": "2023-02-25T06:57:11.096649Z",
-     "iopub.status.idle": "2023-02-25T06:57:11.234178Z",
-     "shell.execute_reply": "2023-02-25T06:57:11.232565Z"
+     "iopub.execute_input": "2023-02-25T07:28:44.311186Z",
+     "iopub.status.busy": "2023-02-25T07:28:44.310758Z",
+     "iopub.status.idle": "2023-02-25T07:28:44.453950Z",
+     "shell.execute_reply": "2023-02-25T07:28:44.452318Z"
     },
     "papermill": {
-     "duration": 0.167414,
-     "end_time": "2023-02-25T06:57:11.238828",
+     "duration": 0.175423,
+     "end_time": "2023-02-25T07:28:44.458257",
      "exception": false,
-     "start_time": "2023-02-25T06:57:11.071414",
+     "start_time": "2023-02-25T07:28:44.282834",
      "status": "completed"
     },
     "tags": []
@@ -2183,13 +2183,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0105d875",
+   "id": "1684e7a2",
    "metadata": {
     "papermill": {
-     "duration": 0.023518,
-     "end_time": "2023-02-25T06:57:11.322409",
+     "duration": 0.027249,
+     "end_time": "2023-02-25T07:28:44.543994",
      "exception": false,
-     "start_time": "2023-02-25T06:57:11.298891",
+     "start_time": "2023-02-25T07:28:44.516745",
      "status": "completed"
     },
     "tags": []
@@ -2205,19 +2205,19 @@
   {
    "cell_type": "code",
    "execution_count": 34,
-   "id": "99ee6505",
+   "id": "d8dc3435",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:11.371448Z",
-     "iopub.status.busy": "2023-02-25T06:57:11.371021Z",
-     "iopub.status.idle": "2023-02-25T06:57:11.580162Z",
-     "shell.execute_reply": "2023-02-25T06:57:11.578635Z"
+     "iopub.execute_input": "2023-02-25T07:28:44.600839Z",
+     "iopub.status.busy": "2023-02-25T07:28:44.600076Z",
+     "iopub.status.idle": "2023-02-25T07:28:44.799597Z",
+     "shell.execute_reply": "2023-02-25T07:28:44.798795Z"
     },
     "papermill": {
-     "duration": 0.237165,
-     "end_time": "2023-02-25T06:57:11.583075",
+     "duration": 0.230129,
+     "end_time": "2023-02-25T07:28:44.801605",
      "exception": false,
-     "start_time": "2023-02-25T06:57:11.345910",
+     "start_time": "2023-02-25T07:28:44.571476",
      "status": "completed"
     },
     "tags": []
@@ -2251,19 +2251,19 @@
   {
    "cell_type": "code",
    "execution_count": 35,
-   "id": "9bfa33dd",
+   "id": "492db101",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:11.633299Z",
-     "iopub.status.busy": "2023-02-25T06:57:11.632847Z",
-     "iopub.status.idle": "2023-02-25T06:57:11.775922Z",
-     "shell.execute_reply": "2023-02-25T06:57:11.774228Z"
+     "iopub.execute_input": "2023-02-25T07:28:44.858278Z",
+     "iopub.status.busy": "2023-02-25T07:28:44.857169Z",
+     "iopub.status.idle": "2023-02-25T07:28:44.993135Z",
+     "shell.execute_reply": "2023-02-25T07:28:44.991612Z"
     },
     "papermill": {
-     "duration": 0.173468,
-     "end_time": "2023-02-25T06:57:11.780661",
+     "duration": 0.168408,
+     "end_time": "2023-02-25T07:28:44.997354",
      "exception": false,
-     "start_time": "2023-02-25T06:57:11.607193",
+     "start_time": "2023-02-25T07:28:44.828946",
      "status": "completed"
     },
     "tags": []
@@ -2297,19 +2297,19 @@
   {
    "cell_type": "code",
    "execution_count": 36,
-   "id": "6c890d47",
+   "id": "ca7cc089",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:11.867441Z",
-     "iopub.status.busy": "2023-02-25T06:57:11.867055Z",
-     "iopub.status.idle": "2023-02-25T06:57:11.883720Z",
-     "shell.execute_reply": "2023-02-25T06:57:11.882310Z"
+     "iopub.execute_input": "2023-02-25T07:28:45.092010Z",
+     "iopub.status.busy": "2023-02-25T07:28:45.091020Z",
+     "iopub.status.idle": "2023-02-25T07:28:45.107151Z",
+     "shell.execute_reply": "2023-02-25T07:28:45.105828Z"
     },
     "papermill": {
-     "duration": 0.045214,
-     "end_time": "2023-02-25T06:57:11.886209",
+     "duration": 0.047174,
+     "end_time": "2023-02-25T07:28:45.109499",
      "exception": false,
-     "start_time": "2023-02-25T06:57:11.840995",
+     "start_time": "2023-02-25T07:28:45.062325",
      "status": "completed"
     },
     "tags": []
@@ -2407,19 +2407,19 @@
   {
    "cell_type": "code",
    "execution_count": 37,
-   "id": "616603cc",
+   "id": "9cec1198",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:11.937869Z",
-     "iopub.status.busy": "2023-02-25T06:57:11.936982Z",
-     "iopub.status.idle": "2023-02-25T06:57:11.947394Z",
-     "shell.execute_reply": "2023-02-25T06:57:11.946268Z"
+     "iopub.execute_input": "2023-02-25T07:28:45.167301Z",
+     "iopub.status.busy": "2023-02-25T07:28:45.166836Z",
+     "iopub.status.idle": "2023-02-25T07:28:45.178606Z",
+     "shell.execute_reply": "2023-02-25T07:28:45.177354Z"
     },
     "papermill": {
-     "duration": 0.038822,
-     "end_time": "2023-02-25T06:57:11.949686",
+     "duration": 0.04391,
+     "end_time": "2023-02-25T07:28:45.181254",
      "exception": false,
-     "start_time": "2023-02-25T06:57:11.910864",
+     "start_time": "2023-02-25T07:28:45.137344",
      "status": "completed"
     },
     "tags": []
@@ -2451,19 +2451,19 @@
   {
    "cell_type": "code",
    "execution_count": 38,
-   "id": "f4382ad6",
+   "id": "67fd3f2c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:12.003244Z",
-     "iopub.status.busy": "2023-02-25T06:57:12.002021Z",
-     "iopub.status.idle": "2023-02-25T06:57:12.010342Z",
-     "shell.execute_reply": "2023-02-25T06:57:12.009108Z"
+     "iopub.execute_input": "2023-02-25T07:28:45.242200Z",
+     "iopub.status.busy": "2023-02-25T07:28:45.240987Z",
+     "iopub.status.idle": "2023-02-25T07:28:45.249681Z",
+     "shell.execute_reply": "2023-02-25T07:28:45.248515Z"
     },
     "papermill": {
-     "duration": 0.03835,
-     "end_time": "2023-02-25T06:57:12.013401",
+     "duration": 0.041426,
+     "end_time": "2023-02-25T07:28:45.251943",
      "exception": false,
-     "start_time": "2023-02-25T06:57:11.975051",
+     "start_time": "2023-02-25T07:28:45.210517",
      "status": "completed"
     },
     "tags": []
@@ -2494,19 +2494,19 @@
   {
    "cell_type": "code",
    "execution_count": 39,
-   "id": "ba3cf030",
+   "id": "91a3dded",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:12.066311Z",
-     "iopub.status.busy": "2023-02-25T06:57:12.065458Z",
-     "iopub.status.idle": "2023-02-25T06:57:12.291714Z",
-     "shell.execute_reply": "2023-02-25T06:57:12.290331Z"
+     "iopub.execute_input": "2023-02-25T07:28:45.310391Z",
+     "iopub.status.busy": "2023-02-25T07:28:45.309595Z",
+     "iopub.status.idle": "2023-02-25T07:28:45.486635Z",
+     "shell.execute_reply": "2023-02-25T07:28:45.485770Z"
     },
     "papermill": {
-     "duration": 0.255188,
-     "end_time": "2023-02-25T06:57:12.294180",
+     "duration": 0.209484,
+     "end_time": "2023-02-25T07:28:45.489354",
      "exception": false,
-     "start_time": "2023-02-25T06:57:12.038992",
+     "start_time": "2023-02-25T07:28:45.279870",
      "status": "completed"
     },
     "tags": []
@@ -2540,19 +2540,19 @@
   {
    "cell_type": "code",
    "execution_count": 40,
-   "id": "8dc75207",
+   "id": "798edcae",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:12.346978Z",
-     "iopub.status.busy": "2023-02-25T06:57:12.346524Z",
-     "iopub.status.idle": "2023-02-25T06:57:12.358237Z",
-     "shell.execute_reply": "2023-02-25T06:57:12.356806Z"
+     "iopub.execute_input": "2023-02-25T07:28:45.550012Z",
+     "iopub.status.busy": "2023-02-25T07:28:45.549217Z",
+     "iopub.status.idle": "2023-02-25T07:28:45.559789Z",
+     "shell.execute_reply": "2023-02-25T07:28:45.558714Z"
     },
     "papermill": {
-     "duration": 0.041093,
-     "end_time": "2023-02-25T06:57:12.360755",
+     "duration": 0.043011,
+     "end_time": "2023-02-25T07:28:45.561926",
      "exception": false,
-     "start_time": "2023-02-25T06:57:12.319662",
+     "start_time": "2023-02-25T07:28:45.518915",
      "status": "completed"
     },
     "tags": []
@@ -2584,19 +2584,19 @@
   {
    "cell_type": "code",
    "execution_count": 41,
-   "id": "f58a8ced",
+   "id": "3c334485",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:12.416267Z",
-     "iopub.status.busy": "2023-02-25T06:57:12.415211Z",
-     "iopub.status.idle": "2023-02-25T06:57:12.423583Z",
-     "shell.execute_reply": "2023-02-25T06:57:12.422390Z"
+     "iopub.execute_input": "2023-02-25T07:28:45.620858Z",
+     "iopub.status.busy": "2023-02-25T07:28:45.620435Z",
+     "iopub.status.idle": "2023-02-25T07:28:45.629373Z",
+     "shell.execute_reply": "2023-02-25T07:28:45.628187Z"
     },
     "papermill": {
-     "duration": 0.038761,
-     "end_time": "2023-02-25T06:57:12.426115",
+     "duration": 0.041133,
+     "end_time": "2023-02-25T07:28:45.631686",
      "exception": false,
-     "start_time": "2023-02-25T06:57:12.387354",
+     "start_time": "2023-02-25T07:28:45.590553",
      "status": "completed"
     },
     "tags": []
@@ -2627,19 +2627,19 @@
   {
    "cell_type": "code",
    "execution_count": 42,
-   "id": "6e406102",
+   "id": "c18a7748",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:12.479397Z",
-     "iopub.status.busy": "2023-02-25T06:57:12.478958Z",
-     "iopub.status.idle": "2023-02-25T06:57:12.848163Z",
-     "shell.execute_reply": "2023-02-25T06:57:12.846591Z"
+     "iopub.execute_input": "2023-02-25T07:28:45.692739Z",
+     "iopub.status.busy": "2023-02-25T07:28:45.691638Z",
+     "iopub.status.idle": "2023-02-25T07:28:45.988516Z",
+     "shell.execute_reply": "2023-02-25T07:28:45.987337Z"
     },
     "papermill": {
-     "duration": 0.398938,
-     "end_time": "2023-02-25T06:57:12.850831",
+     "duration": 0.329682,
+     "end_time": "2023-02-25T07:28:45.990951",
      "exception": false,
-     "start_time": "2023-02-25T06:57:12.451893",
+     "start_time": "2023-02-25T07:28:45.661269",
      "status": "completed"
     },
     "tags": []
@@ -2673,19 +2673,19 @@
   {
    "cell_type": "code",
    "execution_count": 43,
-   "id": "3bb20f8a",
+   "id": "02599f0c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:12.905423Z",
-     "iopub.status.busy": "2023-02-25T06:57:12.904937Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.161509Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.160001Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.051620Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.051191Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.232760Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.231502Z"
     },
     "papermill": {
-     "duration": 0.287169,
-     "end_time": "2023-02-25T06:57:13.164333",
+     "duration": 0.215299,
+     "end_time": "2023-02-25T07:28:46.235333",
      "exception": false,
-     "start_time": "2023-02-25T06:57:12.877164",
+     "start_time": "2023-02-25T07:28:46.020034",
      "status": "completed"
     },
     "tags": []
@@ -2694,7 +2694,7 @@
     {
      "data": {
       "text/plain": [
-       "<matplotlib.collections.PathCollection at 0x7f9908934910>"
+       "<matplotlib.collections.PathCollection at 0x7ff4fbd97410>"
       ]
      },
      "execution_count": 43,
@@ -2719,19 +2719,19 @@
   {
    "cell_type": "code",
    "execution_count": 44,
-   "id": "ab2cf601",
+   "id": "29094489",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.220794Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.220383Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.231019Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.229860Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.297182Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.296061Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.305918Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.304814Z"
     },
     "papermill": {
-     "duration": 0.042656,
-     "end_time": "2023-02-25T06:57:13.233817",
+     "duration": 0.043241,
+     "end_time": "2023-02-25T07:28:46.308295",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.191161",
+     "start_time": "2023-02-25T07:28:46.265054",
      "status": "completed"
     },
     "tags": []
@@ -2740,11 +2740,11 @@
     {
      "data": {
       "text/plain": [
-       "482    A/5 3594\n",
-       "61       113572\n",
-       "248       11751\n",
-       "490       65304\n",
-       "362        2691\n",
+       "613     370377\n",
+       "536     113050\n",
+       "266    3101295\n",
+       "390     113760\n",
+       "117      11668\n",
        "Name: Ticket, dtype: object"
       ]
      },
@@ -2760,19 +2760,19 @@
   {
    "cell_type": "code",
    "execution_count": 45,
-   "id": "98360eca",
+   "id": "f288cd04",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.289212Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.288793Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.296883Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.295685Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.370578Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.369788Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.377796Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.376703Z"
     },
     "papermill": {
-     "duration": 0.038457,
-     "end_time": "2023-02-25T06:57:13.299191",
+     "duration": 0.041965,
+     "end_time": "2023-02-25T07:28:46.379989",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.260734",
+     "start_time": "2023-02-25T07:28:46.338024",
      "status": "completed"
     },
     "tags": []
@@ -2796,19 +2796,19 @@
   {
    "cell_type": "code",
    "execution_count": 46,
-   "id": "e802fc6b",
+   "id": "991cd1b3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.354595Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.354189Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.362217Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.360993Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.442305Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.441884Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.449833Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.448657Z"
     },
     "papermill": {
-     "duration": 0.038786,
-     "end_time": "2023-02-25T06:57:13.364413",
+     "duration": 0.041775,
+     "end_time": "2023-02-25T07:28:46.451998",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.325627",
+     "start_time": "2023-02-25T07:28:46.410223",
      "status": "completed"
     },
     "tags": []
@@ -2831,13 +2831,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "80467b86",
+   "id": "956a9166",
    "metadata": {
     "papermill": {
-     "duration": 0.02683,
-     "end_time": "2023-02-25T06:57:13.418114",
+     "duration": 0.033101,
+     "end_time": "2023-02-25T07:28:46.515084",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.391284",
+     "start_time": "2023-02-25T07:28:46.481983",
      "status": "completed"
     },
     "tags": []
@@ -2852,19 +2852,19 @@
   {
    "cell_type": "code",
    "execution_count": 47,
-   "id": "0d9c6825",
+   "id": "63f96ed5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.474221Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.472999Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.506694Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.505783Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.576968Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.576581Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.607405Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.606255Z"
     },
     "papermill": {
-     "duration": 0.064299,
-     "end_time": "2023-02-25T06:57:13.509211",
+     "duration": 0.064479,
+     "end_time": "2023-02-25T07:28:46.609737",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.444912",
+     "start_time": "2023-02-25T07:28:46.545258",
      "status": "completed"
     },
     "tags": []
@@ -2937,13 +2937,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cbe1bbbd",
+   "id": "0d16ba5d",
    "metadata": {
     "papermill": {
-     "duration": 0.026872,
-     "end_time": "2023-02-25T06:57:13.563365",
+     "duration": 0.029812,
+     "end_time": "2023-02-25T07:28:46.669777",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.536493",
+     "start_time": "2023-02-25T07:28:46.639965",
      "status": "completed"
     },
     "tags": []
@@ -2957,19 +2957,19 @@
   {
    "cell_type": "code",
    "execution_count": 48,
-   "id": "03749332",
+   "id": "10979ac8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.619918Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.618377Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.641904Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.640709Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.732501Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.732069Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.752996Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.752246Z"
     },
     "papermill": {
-     "duration": 0.054263,
-     "end_time": "2023-02-25T06:57:13.644409",
+     "duration": 0.055549,
+     "end_time": "2023-02-25T07:28:46.755297",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.590146",
+     "start_time": "2023-02-25T07:28:46.699748",
      "status": "completed"
     },
     "tags": []
@@ -3038,13 +3038,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6be93af0",
+   "id": "7e9427f0",
    "metadata": {
     "papermill": {
-     "duration": 0.027085,
-     "end_time": "2023-02-25T06:57:13.698809",
+     "duration": 0.034748,
+     "end_time": "2023-02-25T07:28:46.820712",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.671724",
+     "start_time": "2023-02-25T07:28:46.785964",
      "status": "completed"
     },
     "tags": []
@@ -3059,19 +3059,19 @@
   {
    "cell_type": "code",
    "execution_count": 49,
-   "id": "554b7c62",
+   "id": "4f13a92c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.757112Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.756067Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.780710Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.779327Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.884280Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.883839Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.907703Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.906553Z"
     },
     "papermill": {
-     "duration": 0.056212,
-     "end_time": "2023-02-25T06:57:13.783350",
+     "duration": 0.058627,
+     "end_time": "2023-02-25T07:28:46.910256",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.727138",
+     "start_time": "2023-02-25T07:28:46.851629",
      "status": "completed"
     },
     "tags": []
@@ -3145,19 +3145,19 @@
   {
    "cell_type": "code",
    "execution_count": 50,
-   "id": "e05a499f",
+   "id": "3f3e14ad",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.841079Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.840383Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.863349Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.862109Z"
+     "iopub.execute_input": "2023-02-25T07:28:46.973708Z",
+     "iopub.status.busy": "2023-02-25T07:28:46.973035Z",
+     "iopub.status.idle": "2023-02-25T07:28:46.994791Z",
+     "shell.execute_reply": "2023-02-25T07:28:46.993596Z"
     },
     "papermill": {
-     "duration": 0.054434,
-     "end_time": "2023-02-25T06:57:13.865857",
+     "duration": 0.05652,
+     "end_time": "2023-02-25T07:28:46.997431",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.811423",
+     "start_time": "2023-02-25T07:28:46.940911",
      "status": "completed"
     },
     "tags": []
@@ -3238,19 +3238,19 @@
   {
    "cell_type": "code",
    "execution_count": 51,
-   "id": "5f151b7a",
+   "id": "c16cf3eb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:13.925000Z",
-     "iopub.status.busy": "2023-02-25T06:57:13.924380Z",
-     "iopub.status.idle": "2023-02-25T06:57:13.945688Z",
-     "shell.execute_reply": "2023-02-25T06:57:13.944580Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.060893Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.060242Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.081700Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.080533Z"
     },
     "papermill": {
-     "duration": 0.053311,
-     "end_time": "2023-02-25T06:57:13.948256",
+     "duration": 0.055775,
+     "end_time": "2023-02-25T07:28:47.083952",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.894945",
+     "start_time": "2023-02-25T07:28:47.028177",
      "status": "completed"
     },
     "tags": []
@@ -3324,19 +3324,19 @@
   {
    "cell_type": "code",
    "execution_count": 52,
-   "id": "8928223e",
+   "id": "e2a805f5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.005686Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.005247Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.362938Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.362102Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.147368Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.146941Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.442846Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.442009Z"
     },
     "papermill": {
-     "duration": 0.389681,
-     "end_time": "2023-02-25T06:57:14.365513",
+     "duration": 0.330557,
+     "end_time": "2023-02-25T07:28:47.445188",
      "exception": false,
-     "start_time": "2023-02-25T06:57:13.975832",
+     "start_time": "2023-02-25T07:28:47.114631",
      "status": "completed"
     },
     "tags": []
@@ -3373,7 +3373,7 @@
     {
      "data": {
       "text/plain": [
-       "<matplotlib.legend.Legend at 0x7f9908724b50>"
+       "<matplotlib.legend.Legend at 0x7ff4fbd6f090>"
       ]
      },
      "execution_count": 52,
@@ -3401,19 +3401,19 @@
   {
    "cell_type": "code",
    "execution_count": 53,
-   "id": "1a28a5e1",
+   "id": "97c02840",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.427328Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.426366Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.435847Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.434668Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.512378Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.511694Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.519403Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.518607Z"
     },
     "papermill": {
-     "duration": 0.043349,
-     "end_time": "2023-02-25T06:57:14.438342",
+     "duration": 0.044312,
+     "end_time": "2023-02-25T07:28:47.521522",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.394993",
+     "start_time": "2023-02-25T07:28:47.477210",
      "status": "completed"
     },
     "tags": []
@@ -3437,19 +3437,19 @@
   {
    "cell_type": "code",
    "execution_count": 54,
-   "id": "f6b96e2f",
+   "id": "74eeed5b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.498026Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.497571Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.507641Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.506456Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.588577Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.587905Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.595014Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.594198Z"
     },
     "papermill": {
-     "duration": 0.043134,
-     "end_time": "2023-02-25T06:57:14.510271",
+     "duration": 0.042974,
+     "end_time": "2023-02-25T07:28:47.597030",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.467137",
+     "start_time": "2023-02-25T07:28:47.554056",
      "status": "completed"
     },
     "tags": []
@@ -3473,19 +3473,19 @@
   {
    "cell_type": "code",
    "execution_count": 55,
-   "id": "46762cb6",
+   "id": "bfacaa68",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.571145Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.570715Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.580373Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.579080Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.663998Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.663273Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.671541Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.670414Z"
     },
     "papermill": {
-     "duration": 0.043224,
-     "end_time": "2023-02-25T06:57:14.583014",
+     "duration": 0.044223,
+     "end_time": "2023-02-25T07:28:47.673681",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.539790",
+     "start_time": "2023-02-25T07:28:47.629458",
      "status": "completed"
     },
     "tags": []
@@ -3509,19 +3509,19 @@
   {
    "cell_type": "code",
    "execution_count": 56,
-   "id": "c0f9aa65",
+   "id": "68e49bb6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.644091Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.643673Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.652299Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.651408Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.740579Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.740151Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.749212Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.748382Z"
     },
     "papermill": {
-     "duration": 0.04203,
-     "end_time": "2023-02-25T06:57:14.654588",
+     "duration": 0.045252,
+     "end_time": "2023-02-25T07:28:47.751415",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.612558",
+     "start_time": "2023-02-25T07:28:47.706163",
      "status": "completed"
     },
     "tags": []
@@ -3545,19 +3545,19 @@
   {
    "cell_type": "code",
    "execution_count": 57,
-   "id": "58436f27",
+   "id": "c5653084",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.715845Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.714867Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.724275Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.723127Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.818041Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.817619Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.826634Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.825609Z"
     },
     "papermill": {
-     "duration": 0.04286,
-     "end_time": "2023-02-25T06:57:14.726605",
+     "duration": 0.045059,
+     "end_time": "2023-02-25T07:28:47.828774",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.683745",
+     "start_time": "2023-02-25T07:28:47.783715",
      "status": "completed"
     },
     "tags": []
@@ -3581,44 +3581,44 @@
   {
    "cell_type": "code",
    "execution_count": 58,
-   "id": "0738e6ce",
+   "id": "aa1cbfd6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.788658Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.788085Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.795928Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.794591Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.895674Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.895212Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.901844Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.900713Z"
     },
     "papermill": {
-     "duration": 0.042711,
-     "end_time": "2023-02-25T06:57:14.798549",
+     "duration": 0.042954,
+     "end_time": "2023-02-25T07:28:47.904169",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.755838",
+     "start_time": "2023-02-25T07:28:47.861215",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
    "source": [
-    "traindf['family'] = traindf['SibSp'] + traindf['Parch']"
+    "traindf['family'] = traindf['SibSp'] + traindf['Parch']\n"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 59,
-   "id": "43813b77",
+   "id": "b4a9963a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.859498Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.859066Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.879089Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.878215Z"
+     "iopub.execute_input": "2023-02-25T07:28:47.971706Z",
+     "iopub.status.busy": "2023-02-25T07:28:47.971018Z",
+     "iopub.status.idle": "2023-02-25T07:28:47.989819Z",
+     "shell.execute_reply": "2023-02-25T07:28:47.988679Z"
     },
     "papermill": {
-     "duration": 0.052763,
-     "end_time": "2023-02-25T06:57:14.881476",
+     "duration": 0.055332,
+     "end_time": "2023-02-25T07:28:47.992077",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.828713",
+     "start_time": "2023-02-25T07:28:47.936745",
      "status": "completed"
     },
     "tags": []
@@ -3662,82 +3662,82 @@
        "  </thead>\n",
        "  <tbody>\n",
        "    <tr>\n",
-       "      <th>452</th>\n",
-       "      <td>453</td>\n",
+       "      <th>232</th>\n",
+       "      <td>233</td>\n",
        "      <td>0</td>\n",
+       "      <td>2</td>\n",
+       "      <td>Sjostedt, Mr. Ernst Adolf</td>\n",
+       "      <td>male</td>\n",
+       "      <td>59.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>237442</td>\n",
+       "      <td>13.5000</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>444</th>\n",
+       "      <td>445</td>\n",
        "      <td>1</td>\n",
-       "      <td>Foreman, Mr. Benjamin Laventall</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Johannesen-Bratthammer, Mr. Bernt</td>\n",
        "      <td>male</td>\n",
-       "      <td>30.0</td>\n",
+       "      <td>NaN</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
-       "      <td>113051</td>\n",
+       "      <td>65306</td>\n",
+       "      <td>8.1125</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>32</th>\n",
+       "      <td>33</td>\n",
+       "      <td>1</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Glynn, Miss. Mary Agatha</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>335677</td>\n",
+       "      <td>7.7500</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>Q</td>\n",
+       "      <td>0</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>58</th>\n",
+       "      <td>59</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2</td>\n",
+       "      <td>West, Miss. Constance Mirium</td>\n",
+       "      <td>female</td>\n",
+       "      <td>5.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>2</td>\n",
+       "      <td>C.A. 34651</td>\n",
        "      <td>27.7500</td>\n",
-       "      <td>C111</td>\n",
-       "      <td>C</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>843</th>\n",
-       "      <td>844</td>\n",
-       "      <td>0</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Lemberopolous, Mr. Peter L</td>\n",
-       "      <td>male</td>\n",
-       "      <td>34.5</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2683</td>\n",
-       "      <td>6.4375</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>C</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>212</th>\n",
-       "      <td>213</td>\n",
-       "      <td>0</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Perkin, Mr. John Henry</td>\n",
-       "      <td>male</td>\n",
-       "      <td>22.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>A/5 21174</td>\n",
-       "      <td>7.2500</td>\n",
        "      <td>NaN</td>\n",
        "      <td>S</td>\n",
-       "      <td>0</td>\n",
+       "      <td>3</td>\n",
        "    </tr>\n",
        "    <tr>\n",
-       "      <th>313</th>\n",
-       "      <td>314</td>\n",
-       "      <td>0</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Hendekovic, Mr. Ignjac</td>\n",
+       "      <th>572</th>\n",
+       "      <td>573</td>\n",
+       "      <td>1</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Flynn, Mr. John Irwin (\"Irving\")</td>\n",
        "      <td>male</td>\n",
-       "      <td>28.0</td>\n",
+       "      <td>36.0</td>\n",
        "      <td>0</td>\n",
        "      <td>0</td>\n",
-       "      <td>349243</td>\n",
-       "      <td>7.8958</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>S</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>470</th>\n",
-       "      <td>471</td>\n",
-       "      <td>0</td>\n",
-       "      <td>3</td>\n",
-       "      <td>Keefe, Mr. Arthur</td>\n",
-       "      <td>male</td>\n",
-       "      <td>NaN</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>323592</td>\n",
-       "      <td>7.2500</td>\n",
-       "      <td>NaN</td>\n",
+       "      <td>PC 17474</td>\n",
+       "      <td>26.3875</td>\n",
+       "      <td>E25</td>\n",
        "      <td>S</td>\n",
        "      <td>0</td>\n",
        "    </tr>\n",
@@ -3746,19 +3746,19 @@
        "</div>"
       ],
       "text/plain": [
-       "     PassengerId  Survived  Pclass                             Name   Sex  \\\n",
-       "452          453         0       1  Foreman, Mr. Benjamin Laventall  male   \n",
-       "843          844         0       3       Lemberopolous, Mr. Peter L  male   \n",
-       "212          213         0       3           Perkin, Mr. John Henry  male   \n",
-       "313          314         0       3           Hendekovic, Mr. Ignjac  male   \n",
-       "470          471         0       3                Keefe, Mr. Arthur  male   \n",
+       "     PassengerId  Survived  Pclass                               Name     Sex  \\\n",
+       "232          233         0       2          Sjostedt, Mr. Ernst Adolf    male   \n",
+       "444          445         1       3  Johannesen-Bratthammer, Mr. Bernt    male   \n",
+       "32            33         1       3           Glynn, Miss. Mary Agatha  female   \n",
+       "58            59         1       2       West, Miss. Constance Mirium  female   \n",
+       "572          573         1       1   Flynn, Mr. John Irwin (\"Irving\")    male   \n",
        "\n",
-       "      Age  SibSp  Parch     Ticket     Fare Cabin Embarked  family  \n",
-       "452  30.0      0      0     113051  27.7500  C111        C       0  \n",
-       "843  34.5      0      0       2683   6.4375   NaN        C       0  \n",
-       "212  22.0      0      0  A/5 21174   7.2500   NaN        S       0  \n",
-       "313  28.0      0      0     349243   7.8958   NaN        S       0  \n",
-       "470   NaN      0      0     323592   7.2500   NaN        S       0  "
+       "      Age  SibSp  Parch      Ticket     Fare Cabin Embarked  family  \n",
+       "232  59.0      0      0      237442  13.5000   NaN        S       0  \n",
+       "444   NaN      0      0       65306   8.1125   NaN        S       0  \n",
+       "32    NaN      0      0      335677   7.7500   NaN        Q       0  \n",
+       "58    5.0      1      2  C.A. 34651  27.7500   NaN        S       3  \n",
+       "572  36.0      0      0    PC 17474  26.3875   E25        S       0  "
       ]
      },
      "execution_count": 59,
@@ -3773,19 +3773,19 @@
   {
    "cell_type": "code",
    "execution_count": 60,
-   "id": "af7fd3f0",
+   "id": "c925dcda",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:14.942315Z",
-     "iopub.status.busy": "2023-02-25T06:57:14.941925Z",
-     "iopub.status.idle": "2023-02-25T06:57:14.948437Z",
-     "shell.execute_reply": "2023-02-25T06:57:14.947202Z"
+     "iopub.execute_input": "2023-02-25T07:28:48.059965Z",
+     "iopub.status.busy": "2023-02-25T07:28:48.059549Z",
+     "iopub.status.idle": "2023-02-25T07:28:48.067139Z",
+     "shell.execute_reply": "2023-02-25T07:28:48.065948Z"
     },
     "papermill": {
-     "duration": 0.040135,
-     "end_time": "2023-02-25T06:57:14.950836",
+     "duration": 0.044186,
+     "end_time": "2023-02-25T07:28:48.069586",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.910701",
+     "start_time": "2023-02-25T07:28:48.025400",
      "status": "completed"
     },
     "tags": []
@@ -3798,19 +3798,19 @@
   {
    "cell_type": "code",
    "execution_count": 61,
-   "id": "0441800a",
+   "id": "e6ccbc51",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-25T06:57:15.011690Z",
-     "iopub.status.busy": "2023-02-25T06:57:15.011256Z",
-     "iopub.status.idle": "2023-02-25T06:57:15.030197Z",
-     "shell.execute_reply": "2023-02-25T06:57:15.029347Z"
+     "iopub.execute_input": "2023-02-25T07:28:48.136792Z",
+     "iopub.status.busy": "2023-02-25T07:28:48.136397Z",
+     "iopub.status.idle": "2023-02-25T07:28:48.156714Z",
+     "shell.execute_reply": "2023-02-25T07:28:48.155650Z"
     },
     "papermill": {
-     "duration": 0.052187,
-     "end_time": "2023-02-25T06:57:15.032151",
+     "duration": 0.056625,
+     "end_time": "2023-02-25T07:28:48.158810",
      "exception": false,
-     "start_time": "2023-02-25T06:57:14.979964",
+     "start_time": "2023-02-25T07:28:48.102185",
      "status": "completed"
     },
     "tags": []
@@ -3977,14 +3977,2148 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 62,
+   "id": "2fda4213",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:48.226914Z",
+     "iopub.status.busy": "2023-02-25T07:28:48.226499Z",
+     "iopub.status.idle": "2023-02-25T07:28:48.648908Z",
+     "shell.execute_reply": "2023-02-25T07:28:48.647695Z"
+    },
+    "papermill": {
+     "duration": 0.45911,
+     "end_time": "2023-02-25T07:28:48.651271",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:48.192161",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/opt/conda/lib/python3.7/site-packages/ipykernel_launcher.py:1: UserWarning: \n",
+      "\n",
+      "`distplot` is a deprecated function and will be removed in seaborn v0.14.0.\n",
+      "\n",
+      "Please adapt your code to use either `displot` (a figure-level function with\n",
+      "similar flexibility) or `histplot` (an axes-level function for histograms).\n",
+      "\n",
+      "For a guide to updating your code to use the new functions, please see\n",
+      "https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751\n",
+      "\n",
+      "  \"\"\"Entry point for launching an IPython kernel.\n",
+      "/opt/conda/lib/python3.7/site-packages/ipykernel_launcher.py:2: UserWarning: \n",
+      "\n",
+      "`distplot` is a deprecated function and will be removed in seaborn v0.14.0.\n",
+      "\n",
+      "Please adapt your code to use either `displot` (a figure-level function with\n",
+      "similar flexibility) or `histplot` (an axes-level function for histograms).\n",
+      "\n",
+      "For a guide to updating your code to use the new functions, please see\n",
+      "https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751\n",
+      "\n",
+      "  \n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "<AxesSubplot:xlabel='IndividualFare', ylabel='Density'>"
+      ]
+     },
+     "execution_count": 62,
+     "metadata": {},
+     "output_type": "execute_result"
+    },
+    {
+     "data": {
+      "image/png": "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3qk333xTubm5vrL09HTt2LFDWVlZkqTbb79dubm5eu+993x1fve732nLli3H7V1qUFZWpujoaJWWlioqKqq9p9c1bV1x9PPomwLXDgAA2qgtv78D1gNUU1Oj7OxspaWl+ZWnpaVp8+bNTe6TlZXVqP6ECRO0detW1dbWSpIuuOACZWdna8uWLZKkb775RhkZGfrpT3/abFtcLpfKysr8XgAAIHjZA/XFJSUlcrvdio+P9yuPj49XUVFRk/sUFRU1Wb+urk4lJSXq3bu3rr76an3//fe64IILZBiG6urq9Otf/1pz585tti2LFi3S/ffff+InBQAAuoSAT4K2WCx+PxuG0ajsePWPLd+wYYMefPBBLVmyRNu2bdPrr7+ut956Sw888ECzx5w3b55KS0t9r/z8/PaeDgAA6AIC1gMUGxsrm83WqLenuLi4US9Pg4SEhCbr2+129ezZU5J0zz33aNq0abr11lslSSNGjFBFRYV++ctfav78+bJaG2e+0NBQhYaGdsRpAQCALiBgPUAOh0MpKSnKzMz0K8/MzNTYsWOb3Cc1NbVR/fXr12v06NEKCQmRJFVWVjYKOTabTYZhKIDzvQEAwCkkoENgs2fP1gsvvKAXX3xRubm5mjVrlvLy8pSeni7JOzR1/fXX++qnp6dr3759mj17tnJzc/Xiiy9q+fLlmjNnjq/O5ZdfrqVLl2rNmjXas2ePMjMzdc899+iKK66QzWY76ecIAABOPQEbApOkqVOn6sCBA1q4cKEKCws1fPhwZWRkqH///pKkwsJCvzWBkpOTlZGRoVmzZunZZ59VYmKinn76aV111VW+OnfffbcsFovuvvtuFRQUKC4uTpdffrkefPDBk35+AADg1BTQdYBOVawDVI91gAAAXUiXWAcIAAAgUAhAAADAdAhAAADAdAhAAADAdAhAAADAdAhAAADAdAhAAADAdAhAAADAdAhAAADAdAhAAADAdAhAAADAdNoVgPbs2dPR7QAAADhp2hWABg8erEsuuUR/+ctfVF1d3dFtAgAA6FTtCkA7duzQOeeco9/97ndKSEjQr371K23ZsqWj2wYAANAp2hWAhg8frieffFIFBQVasWKFioqKdMEFF+jMM8/Uk08+qe+//76j2wkAANBhTmgStN1u15VXXqlXXnlFjzzyiL7++mvNmTNHffv21fXXX6/CwsKO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237uuecad955p2EYhvHOO+8YNpvNyM/P921/++23DUnGunXrDMMwjD179hiSjJycHMMwDGPbtm2GxWIx9u7daxiGYbjdbqNPnz7Gs88+6zvGsfv/6U9/Mnr06GFUVFT4ti9dutTvmCtWrDCio6P92rlu3TrjeP8UDhs2zPjf//1f38/9+/c3/vjHP/r97HA4jPDwcN/rqaeeavJY06dPN6666irfzzfccIMRHx9vuFwuX9ny5cuNIUOGGB6Px1fmcrmMsLAw45133mmxrQBahzlAADrEWWed5fdz7969VVxcLEnKzc1Vv3791LdvX9/21NTUFo93zjnn6IwzztDq1as1d+5cbdy4UcXFxfrFL37RZP3c3FyNHDlS3bp1a/V3NKWiokL333+/3nrrLe3fv191dXWqqqo6bg/Q73//e914442+nxsmcy9btkwvvPCC9u3bp6qqKtXU1Ojss8/223fEiBF+836ys7P11VdfKTIy0q9edXW1vv766zafE4DGCEAAOkRISIjfzxaLRR6PR5JkGEaj+sfOu2nOddddp1WrVmnu3LlatWqVJkyY0OxdYk19xw9ZrdZG9Wpra/1+/v3vf6933nlHjz/+uAYPHqywsDD9/Oc/P+7QU2xsrAYPHuxX9sorr2jWrFl64oknlJqaqsjISD322GP66KOP/OqFh4f7/ezxeJSSktJoCFCS4uLijnueAI6PAASg0w0bNkx5eXnav3+/EhMTJUlZWVnH3e/aa6/V3XffrezsbL366qtaunRpi9/xf//3f6qqqlJYWJgk6cMPP/SrExcXpyNHjqiiosIXOn64RtCmTZt044036sorr5TknRPU3snHmzZt0tixYzV9+nRfWWt6cEaNGqW1a9eqV69eioqKatd3A2gZk6ABdLrx48dryJAhuv7667Vjxw5t2rRJ8+fPP+5+ycnJGjt2rG655RbV1dVp0qRJzda99tprZbVadcstt2j37t3KyMjQ448/7ldnzJgx6tatm+666y599dVXWrVqlV566SW/OoMHD9brr7+u7du3a8eOHbr22mt9PVltNXjwYG3dulXvvPOOvvjiC91zzz36+OOPj7vfddddp9jYWE2aNEmbNm3Snj17tHHjRs2YMYO1hYAOQgAC0OmsVqvWrVsnl8ul8847T7feeqsefPDBVu173XXXaceOHZoyZYqvZ6cpERER+vvf/67du3frnHPO0fz58/XII4/41enRo4f+8pe/KCMjQyNGjNDq1asb3a7/xz/+UTExMRo7dqwuv/xyTZgwQaNGjWrzOUtSenq6pkyZoqlTp2rMmDE6cOCAX29Qc7p166Z///vf6tevn6ZMmaKhQ4fq5ptvVlVVFT1CQAexGK0ZOAcAAAgi9AABAADTIQABAADTIQABAADTIQABAADTIQABAADTIQABAADTIQABAADTIQABAADTIQABAADTIQABAADTIQABAADT+f9juPj4Jdx7FwAAAABJRU5ErkJggg==\n",
+      "text/plain": [
+       "<Figure size 640x480 with 1 Axes>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "sns.distplot(traindf[traindf['Survived'] == 1]['IndividualFare'])\n",
+    "sns.distplot(traindf[traindf['Survived'] == 0]['IndividualFare'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 63,
+   "id": "0cce2c2b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:48.722696Z",
+     "iopub.status.busy": "2023-02-25T07:28:48.721977Z",
+     "iopub.status.idle": "2023-02-25T07:28:48.743147Z",
+     "shell.execute_reply": "2023-02-25T07:28:48.741874Z"
+    },
+    "papermill": {
+     "duration": 0.059369,
+     "end_time": "2023-02-25T07:28:48.745948",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:48.686579",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Cabin</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>family</th>\n",
+       "      <th>IndividualFare</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>159</th>\n",
+       "      <td>160</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Master. Thomas Henry</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>180</th>\n",
+       "      <td>181</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Constance Gladys</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>201</th>\n",
+       "      <td>202</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Mr. Frederick</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>324</th>\n",
+       "      <td>325</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Mr. George John Jr</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>792</th>\n",
+       "      <td>793</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Stella Anna</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>846</th>\n",
+       "      <td>847</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Mr. Douglas Bullen</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>863</th>\n",
+       "      <td>864</td>\n",
+       "      <td>0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Dorothy Edith \"Dolly\"</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     PassengerId  Survived  Pclass                               Name     Sex  \\\n",
+       "159          160         0       3         Sage, Master. Thomas Henry    male   \n",
+       "180          181         0       3       Sage, Miss. Constance Gladys  female   \n",
+       "201          202         0       3                Sage, Mr. Frederick    male   \n",
+       "324          325         0       3           Sage, Mr. George John Jr    male   \n",
+       "792          793         0       3            Sage, Miss. Stella Anna  female   \n",
+       "846          847         0       3           Sage, Mr. Douglas Bullen    male   \n",
+       "863          864         0       3  Sage, Miss. Dorothy Edith \"Dolly\"  female   \n",
+       "\n",
+       "     Age  SibSp  Parch    Ticket   Fare Cabin Embarked  family  IndividualFare  \n",
+       "159  NaN      8      2  CA. 2343  69.55   NaN        S      10        6.322727  \n",
+       "180  NaN      8      2  CA. 2343  69.55   NaN        S      10        6.322727  \n",
+       "201  NaN      8      2  CA. 2343  69.55   NaN        S      10        6.322727  \n",
+       "324  NaN      8      2  CA. 2343  69.55   NaN        S      10        6.322727  \n",
+       "792  NaN      8      2  CA. 2343  69.55   NaN        S      10        6.322727  \n",
+       "846  NaN      8      2  CA. 2343  69.55   NaN        S      10        6.322727  \n",
+       "863  NaN      8      2  CA. 2343  69.55   NaN        S      10        6.322727  "
+      ]
+     },
+     "execution_count": 63,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "traindf[traindf['SibSp'] == 8]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 64,
+   "id": "86aa9015",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:48.818222Z",
+     "iopub.status.busy": "2023-02-25T07:28:48.817783Z",
+     "iopub.status.idle": "2023-02-25T07:28:48.834822Z",
+     "shell.execute_reply": "2023-02-25T07:28:48.833711Z"
+    },
+    "papermill": {
+     "duration": 0.057089,
+     "end_time": "2023-02-25T07:28:48.837108",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:48.780019",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Cabin</th>\n",
+       "      <th>Embarked</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>188</th>\n",
+       "      <td>1080</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Ada</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>360</th>\n",
+       "      <td>1252</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Master. William Henry</td>\n",
+       "      <td>male</td>\n",
+       "      <td>14.5</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     PassengerId  Pclass                         Name     Sex   Age  SibSp  \\\n",
+       "188         1080       3              Sage, Miss. Ada  female   NaN      8   \n",
+       "360         1252       3  Sage, Master. William Henry    male  14.5      8   \n",
+       "\n",
+       "     Parch    Ticket   Fare Cabin Embarked  \n",
+       "188      2  CA. 2343  69.55   NaN        S  \n",
+       "360      2  CA. 2343  69.55   NaN        S  "
+      ]
+     },
+     "execution_count": 64,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "testdf[testdf['SibSp'] == 8]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 65,
+   "id": "1d5cd530",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:48.908161Z",
+     "iopub.status.busy": "2023-02-25T07:28:48.907694Z",
+     "iopub.status.idle": "2023-02-25T07:28:48.913952Z",
+     "shell.execute_reply": "2023-02-25T07:28:48.913064Z"
+    },
+    "papermill": {
+     "duration": 0.044255,
+     "end_time": "2023-02-25T07:28:48.916169",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:48.871914",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "testdf['family'] = testdf['SibSp'] + testdf['Parch']\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 66,
+   "id": "6c860a7d",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:48.986893Z",
+     "iopub.status.busy": "2023-02-25T07:28:48.986475Z",
+     "iopub.status.idle": "2023-02-25T07:28:48.992663Z",
+     "shell.execute_reply": "2023-02-25T07:28:48.991827Z"
+    },
+    "papermill": {
+     "duration": 0.044292,
+     "end_time": "2023-02-25T07:28:48.994791",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:48.950499",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "testdf['IndividualFare'] = testdf['Fare'] / (testdf['family'] + 1)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 67,
+   "id": "daa43bb0",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.065315Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.064878Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.075391Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.074178Z"
+    },
+    "papermill": {
+     "duration": 0.048904,
+     "end_time": "2023-02-25T07:28:49.077691",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.028787",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "df = pd.concat([traindf, testdf])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 68,
+   "id": "9753a6ef",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.147799Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.147417Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.167373Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.166176Z"
+    },
+    "papermill": {
+     "duration": 0.058167,
+     "end_time": "2023-02-25T07:28:49.169976",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.111809",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Cabin</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>family</th>\n",
+       "      <th>IndividualFare</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>125</th>\n",
+       "      <td>126</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Nicola-Yarred, Master. Elias</td>\n",
+       "      <td>male</td>\n",
+       "      <td>12.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>2651</td>\n",
+       "      <td>11.2417</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>C</td>\n",
+       "      <td>1</td>\n",
+       "      <td>5.620850</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>13</th>\n",
+       "      <td>14</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Andersson, Mr. Anders Johan</td>\n",
+       "      <td>male</td>\n",
+       "      <td>39.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>5</td>\n",
+       "      <td>347082</td>\n",
+       "      <td>31.2750</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>6</td>\n",
+       "      <td>4.467857</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>358</th>\n",
+       "      <td>1250</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>3</td>\n",
+       "      <td>O'Keefe, Mr. Patrick</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>368402</td>\n",
+       "      <td>7.7500</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>Q</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.750000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>223</th>\n",
+       "      <td>224</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Nenkoff, Mr. Christo</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>349234</td>\n",
+       "      <td>7.8958</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.895800</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>23</th>\n",
+       "      <td>24</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Sloper, Mr. William Thompson</td>\n",
+       "      <td>male</td>\n",
+       "      <td>28.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>113788</td>\n",
+       "      <td>35.5000</td>\n",
+       "      <td>A6</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>35.500000</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     PassengerId  Survived  Pclass                          Name   Sex   Age  \\\n",
+       "125          126       1.0       3  Nicola-Yarred, Master. Elias  male  12.0   \n",
+       "13            14       0.0       3   Andersson, Mr. Anders Johan  male  39.0   \n",
+       "358         1250       NaN       3          O'Keefe, Mr. Patrick  male   NaN   \n",
+       "223          224       0.0       3          Nenkoff, Mr. Christo  male   NaN   \n",
+       "23            24       1.0       1  Sloper, Mr. William Thompson  male  28.0   \n",
+       "\n",
+       "     SibSp  Parch  Ticket     Fare Cabin Embarked  family  IndividualFare  \n",
+       "125      1      0    2651  11.2417   NaN        C       1        5.620850  \n",
+       "13       1      5  347082  31.2750   NaN        S       6        4.467857  \n",
+       "358      0      0  368402   7.7500   NaN        Q       0        7.750000  \n",
+       "223      0      0  349234   7.8958   NaN        S       0        7.895800  \n",
+       "23       0      0  113788  35.5000    A6        S       0       35.500000  "
+      ]
+     },
+     "execution_count": 68,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.sample(5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 69,
+   "id": "021c7e94",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.241058Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.240272Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.262202Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.260881Z"
+    },
+    "papermill": {
+     "duration": 0.060224,
+     "end_time": "2023-02-25T07:28:49.264711",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.204487",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Cabin</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>family</th>\n",
+       "      <th>IndividualFare</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>159</th>\n",
+       "      <td>160</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Master. Thomas Henry</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>180</th>\n",
+       "      <td>181</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Constance Gladys</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>201</th>\n",
+       "      <td>202</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Mr. Frederick</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>324</th>\n",
+       "      <td>325</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Mr. George John Jr</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>792</th>\n",
+       "      <td>793</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Stella Anna</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>846</th>\n",
+       "      <td>847</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Mr. Douglas Bullen</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>863</th>\n",
+       "      <td>864</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Dorothy Edith \"Dolly\"</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>188</th>\n",
+       "      <td>1080</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Miss. Ada</td>\n",
+       "      <td>female</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>360</th>\n",
+       "      <td>1252</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Sage, Master. William Henry</td>\n",
+       "      <td>male</td>\n",
+       "      <td>14.5</td>\n",
+       "      <td>8</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA. 2343</td>\n",
+       "      <td>69.55</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>10</td>\n",
+       "      <td>6.322727</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     PassengerId  Survived  Pclass                               Name     Sex  \\\n",
+       "159          160       0.0       3         Sage, Master. Thomas Henry    male   \n",
+       "180          181       0.0       3       Sage, Miss. Constance Gladys  female   \n",
+       "201          202       0.0       3                Sage, Mr. Frederick    male   \n",
+       "324          325       0.0       3           Sage, Mr. George John Jr    male   \n",
+       "792          793       0.0       3            Sage, Miss. Stella Anna  female   \n",
+       "846          847       0.0       3           Sage, Mr. Douglas Bullen    male   \n",
+       "863          864       0.0       3  Sage, Miss. Dorothy Edith \"Dolly\"  female   \n",
+       "188         1080       NaN       3                    Sage, Miss. Ada  female   \n",
+       "360         1252       NaN       3        Sage, Master. William Henry    male   \n",
+       "\n",
+       "      Age  SibSp  Parch    Ticket   Fare Cabin Embarked  family  \\\n",
+       "159   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "180   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "201   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "324   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "792   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "846   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "863   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "188   NaN      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "360  14.5      8      2  CA. 2343  69.55   NaN        S      10   \n",
+       "\n",
+       "     IndividualFare  \n",
+       "159        6.322727  \n",
+       "180        6.322727  \n",
+       "201        6.322727  \n",
+       "324        6.322727  \n",
+       "792        6.322727  \n",
+       "846        6.322727  \n",
+       "863        6.322727  \n",
+       "188        6.322727  \n",
+       "360        6.322727  "
+      ]
+     },
+     "execution_count": 69,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df[df['SibSp'] == 8]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 70,
+   "id": "6a6ad668",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.336493Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.336090Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.356930Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.355756Z"
+    },
+    "papermill": {
+     "duration": 0.059055,
+     "end_time": "2023-02-25T07:28:49.359238",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.300183",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Cabin</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>family</th>\n",
+       "      <th>IndividualFare</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>59</th>\n",
+       "      <td>60</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Goodwin, Master. William Frederick</td>\n",
+       "      <td>male</td>\n",
+       "      <td>11.0</td>\n",
+       "      <td>5</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA 2144</td>\n",
+       "      <td>46.9</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>7</td>\n",
+       "      <td>5.8625</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>71</th>\n",
+       "      <td>72</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Goodwin, Miss. Lillian Amy</td>\n",
+       "      <td>female</td>\n",
+       "      <td>16.0</td>\n",
+       "      <td>5</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA 2144</td>\n",
+       "      <td>46.9</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>7</td>\n",
+       "      <td>5.8625</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>386</th>\n",
+       "      <td>387</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Goodwin, Master. Sidney Leonard</td>\n",
+       "      <td>male</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>5</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA 2144</td>\n",
+       "      <td>46.9</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>7</td>\n",
+       "      <td>5.8625</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>480</th>\n",
+       "      <td>481</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Goodwin, Master. Harold Victor</td>\n",
+       "      <td>male</td>\n",
+       "      <td>9.0</td>\n",
+       "      <td>5</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA 2144</td>\n",
+       "      <td>46.9</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>7</td>\n",
+       "      <td>5.8625</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>683</th>\n",
+       "      <td>684</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Goodwin, Mr. Charles Edward</td>\n",
+       "      <td>male</td>\n",
+       "      <td>14.0</td>\n",
+       "      <td>5</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA 2144</td>\n",
+       "      <td>46.9</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>7</td>\n",
+       "      <td>5.8625</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>140</th>\n",
+       "      <td>1032</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Goodwin, Miss. Jessie Allis</td>\n",
+       "      <td>female</td>\n",
+       "      <td>10.0</td>\n",
+       "      <td>5</td>\n",
+       "      <td>2</td>\n",
+       "      <td>CA 2144</td>\n",
+       "      <td>46.9</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>7</td>\n",
+       "      <td>5.8625</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     PassengerId  Survived  Pclass                                Name  \\\n",
+       "59            60       0.0       3  Goodwin, Master. William Frederick   \n",
+       "71            72       0.0       3          Goodwin, Miss. Lillian Amy   \n",
+       "386          387       0.0       3     Goodwin, Master. Sidney Leonard   \n",
+       "480          481       0.0       3      Goodwin, Master. Harold Victor   \n",
+       "683          684       0.0       3         Goodwin, Mr. Charles Edward   \n",
+       "140         1032       NaN       3         Goodwin, Miss. Jessie Allis   \n",
+       "\n",
+       "        Sex   Age  SibSp  Parch   Ticket  Fare Cabin Embarked  family  \\\n",
+       "59     male  11.0      5      2  CA 2144  46.9   NaN        S       7   \n",
+       "71   female  16.0      5      2  CA 2144  46.9   NaN        S       7   \n",
+       "386    male   1.0      5      2  CA 2144  46.9   NaN        S       7   \n",
+       "480    male   9.0      5      2  CA 2144  46.9   NaN        S       7   \n",
+       "683    male  14.0      5      2  CA 2144  46.9   NaN        S       7   \n",
+       "140  female  10.0      5      2  CA 2144  46.9   NaN        S       7   \n",
+       "\n",
+       "     IndividualFare  \n",
+       "59           5.8625  \n",
+       "71           5.8625  \n",
+       "386          5.8625  \n",
+       "480          5.8625  \n",
+       "683          5.8625  \n",
+       "140          5.8625  "
+      ]
+     },
+     "execution_count": 70,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df[df['SibSp'] == 5]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 71,
+   "id": "eabcf9e4",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.432369Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.431931Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.439814Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.438901Z"
+    },
+    "papermill": {
+     "duration": 0.046599,
+     "end_time": "2023-02-25T07:28:49.441940",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.395341",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "512.3292"
+      ]
+     },
+     "execution_count": 71,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df['IndividualFare'].max()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 72,
+   "id": "2e4ea98c",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.514282Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.513832Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.713747Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.712675Z"
+    },
+    "papermill": {
+     "duration": 0.238921,
+     "end_time": "2023-02-25T07:28:49.716361",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.477440",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "<AxesSubplot:>"
+      ]
+     },
+     "execution_count": 72,
+     "metadata": {},
+     "output_type": "execute_result"
+    },
+    {
+     "data": {
+      "image/png": "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\n",
+      "text/plain": [
+       "<Figure size 640x480 with 1 Axes>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "df['IndividualFare'].plot(kind='box')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 73,
+   "id": "7db8b311",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.789111Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.788701Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.817116Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.815352Z"
+    },
+    "papermill": {
+     "duration": 0.06859,
+     "end_time": "2023-02-25T07:28:49.820398",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.751808",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Cabin</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>family</th>\n",
+       "      <th>IndividualFare</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>258</th>\n",
+       "      <td>259</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Ward, Miss. Anna</td>\n",
+       "      <td>female</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17755</td>\n",
+       "      <td>512.3292</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>512.3292</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>380</th>\n",
+       "      <td>381</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Bidois, Miss. Rosalie</td>\n",
+       "      <td>female</td>\n",
+       "      <td>42.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17757</td>\n",
+       "      <td>227.5250</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>227.5250</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>527</th>\n",
+       "      <td>528</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Farthing, Mr. John</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17483</td>\n",
+       "      <td>221.7792</td>\n",
+       "      <td>C95</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>221.7792</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>557</th>\n",
+       "      <td>558</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Robbins, Mr. Victor</td>\n",
+       "      <td>male</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17757</td>\n",
+       "      <td>227.5250</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>227.5250</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>679</th>\n",
+       "      <td>680</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Cardeza, Mr. Thomas Drake Martinez</td>\n",
+       "      <td>male</td>\n",
+       "      <td>36.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>PC 17755</td>\n",
+       "      <td>512.3292</td>\n",
+       "      <td>B51 B53 B55</td>\n",
+       "      <td>C</td>\n",
+       "      <td>1</td>\n",
+       "      <td>256.1646</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>716</th>\n",
+       "      <td>717</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Endres, Miss. Caroline Louise</td>\n",
+       "      <td>female</td>\n",
+       "      <td>38.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17757</td>\n",
+       "      <td>227.5250</td>\n",
+       "      <td>C45</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>227.5250</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>730</th>\n",
+       "      <td>731</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Allen, Miss. Elisabeth Walton</td>\n",
+       "      <td>female</td>\n",
+       "      <td>29.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>24160</td>\n",
+       "      <td>211.3375</td>\n",
+       "      <td>B5</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>211.3375</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>737</th>\n",
+       "      <td>738</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Lesurer, Mr. Gustave J</td>\n",
+       "      <td>male</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17755</td>\n",
+       "      <td>512.3292</td>\n",
+       "      <td>B101</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>512.3292</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>59</th>\n",
+       "      <td>951</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Chaudanson, Miss. Victorine</td>\n",
+       "      <td>female</td>\n",
+       "      <td>36.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17608</td>\n",
+       "      <td>262.3750</td>\n",
+       "      <td>B61</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>262.3750</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>74</th>\n",
+       "      <td>966</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Geiger, Miss. Amalie</td>\n",
+       "      <td>female</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>113503</td>\n",
+       "      <td>211.5000</td>\n",
+       "      <td>C130</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>211.5000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>75</th>\n",
+       "      <td>967</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Keeping, Mr. Edwin</td>\n",
+       "      <td>male</td>\n",
+       "      <td>32.5</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>113503</td>\n",
+       "      <td>211.5000</td>\n",
+       "      <td>C132</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>211.5000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>156</th>\n",
+       "      <td>1048</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Bird, Miss. Ellen</td>\n",
+       "      <td>female</td>\n",
+       "      <td>29.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17483</td>\n",
+       "      <td>221.7792</td>\n",
+       "      <td>C97</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>221.7792</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>324</th>\n",
+       "      <td>1216</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Kreuchen, Miss. Emilie</td>\n",
+       "      <td>female</td>\n",
+       "      <td>39.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>24160</td>\n",
+       "      <td>211.3375</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>211.3375</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>343</th>\n",
+       "      <td>1235</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Cardeza, Mrs. James Warburton Martinez (Charlo...</td>\n",
+       "      <td>female</td>\n",
+       "      <td>58.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>PC 17755</td>\n",
+       "      <td>512.3292</td>\n",
+       "      <td>B51 B53 B55</td>\n",
+       "      <td>C</td>\n",
+       "      <td>1</td>\n",
+       "      <td>256.1646</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>375</th>\n",
+       "      <td>1267</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Bowen, Miss. Grace Scott</td>\n",
+       "      <td>female</td>\n",
+       "      <td>45.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17608</td>\n",
+       "      <td>262.3750</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>C</td>\n",
+       "      <td>0</td>\n",
+       "      <td>262.3750</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "     PassengerId  Survived  Pclass  \\\n",
+       "258          259       1.0       1   \n",
+       "380          381       1.0       1   \n",
+       "527          528       0.0       1   \n",
+       "557          558       0.0       1   \n",
+       "679          680       1.0       1   \n",
+       "716          717       1.0       1   \n",
+       "730          731       1.0       1   \n",
+       "737          738       1.0       1   \n",
+       "59           951       NaN       1   \n",
+       "74           966       NaN       1   \n",
+       "75           967       NaN       1   \n",
+       "156         1048       NaN       1   \n",
+       "324         1216       NaN       1   \n",
+       "343         1235       NaN       1   \n",
+       "375         1267       NaN       1   \n",
+       "\n",
+       "                                                  Name     Sex   Age  SibSp  \\\n",
+       "258                                   Ward, Miss. Anna  female  35.0      0   \n",
+       "380                              Bidois, Miss. Rosalie  female  42.0      0   \n",
+       "527                                 Farthing, Mr. John    male   NaN      0   \n",
+       "557                                Robbins, Mr. Victor    male   NaN      0   \n",
+       "679                 Cardeza, Mr. Thomas Drake Martinez    male  36.0      0   \n",
+       "716                      Endres, Miss. Caroline Louise  female  38.0      0   \n",
+       "730                      Allen, Miss. Elisabeth Walton  female  29.0      0   \n",
+       "737                             Lesurer, Mr. Gustave J    male  35.0      0   \n",
+       "59                         Chaudanson, Miss. Victorine  female  36.0      0   \n",
+       "74                                Geiger, Miss. Amalie  female  35.0      0   \n",
+       "75                                  Keeping, Mr. Edwin    male  32.5      0   \n",
+       "156                                  Bird, Miss. Ellen  female  29.0      0   \n",
+       "324                             Kreuchen, Miss. Emilie  female  39.0      0   \n",
+       "343  Cardeza, Mrs. James Warburton Martinez (Charlo...  female  58.0      0   \n",
+       "375                           Bowen, Miss. Grace Scott  female  45.0      0   \n",
+       "\n",
+       "     Parch    Ticket      Fare        Cabin Embarked  family  IndividualFare  \n",
+       "258      0  PC 17755  512.3292          NaN        C       0        512.3292  \n",
+       "380      0  PC 17757  227.5250          NaN        C       0        227.5250  \n",
+       "527      0  PC 17483  221.7792          C95        S       0        221.7792  \n",
+       "557      0  PC 17757  227.5250          NaN        C       0        227.5250  \n",
+       "679      1  PC 17755  512.3292  B51 B53 B55        C       1        256.1646  \n",
+       "716      0  PC 17757  227.5250          C45        C       0        227.5250  \n",
+       "730      0     24160  211.3375           B5        S       0        211.3375  \n",
+       "737      0  PC 17755  512.3292         B101        C       0        512.3292  \n",
+       "59       0  PC 17608  262.3750          B61        C       0        262.3750  \n",
+       "74       0    113503  211.5000         C130        C       0        211.5000  \n",
+       "75       0    113503  211.5000         C132        C       0        211.5000  \n",
+       "156      0  PC 17483  221.7792          C97        S       0        221.7792  \n",
+       "324      0     24160  211.3375          NaN        S       0        211.3375  \n",
+       "343      1  PC 17755  512.3292  B51 B53 B55        C       1        256.1646  \n",
+       "375      0  PC 17608  262.3750          NaN        C       0        262.3750  "
+      ]
+     },
+     "execution_count": 73,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df[df['IndividualFare'] > 200]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 74,
+   "id": "2a635552",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:49.914904Z",
+     "iopub.status.busy": "2023-02-25T07:28:49.913886Z",
+     "iopub.status.idle": "2023-02-25T07:28:49.931908Z",
+     "shell.execute_reply": "2023-02-25T07:28:49.930833Z"
+    },
+    "papermill": {
+     "duration": 0.06865,
+     "end_time": "2023-02-25T07:28:49.934246",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.865596",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>IndividualFare</th>\n",
+       "      <th>Fare</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>count</th>\n",
+       "      <td>1308.000000</td>\n",
+       "      <td>1308.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>mean</th>\n",
+       "      <td>20.518215</td>\n",
+       "      <td>33.295479</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>std</th>\n",
+       "      <td>35.774337</td>\n",
+       "      <td>51.758668</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>min</th>\n",
+       "      <td>0.000000</td>\n",
+       "      <td>0.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>25%</th>\n",
+       "      <td>7.452767</td>\n",
+       "      <td>7.895800</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>50%</th>\n",
+       "      <td>8.512483</td>\n",
+       "      <td>14.454200</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>75%</th>\n",
+       "      <td>24.237500</td>\n",
+       "      <td>31.275000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>max</th>\n",
+       "      <td>512.329200</td>\n",
+       "      <td>512.329200</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "       IndividualFare         Fare\n",
+       "count     1308.000000  1308.000000\n",
+       "mean        20.518215    33.295479\n",
+       "std         35.774337    51.758668\n",
+       "min          0.000000     0.000000\n",
+       "25%          7.452767     7.895800\n",
+       "50%          8.512483    14.454200\n",
+       "75%         24.237500    31.275000\n",
+       "max        512.329200   512.329200"
+      ]
+     },
+     "execution_count": 74,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df[['IndividualFare', 'Fare']].describe()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 75,
+   "id": "c7af35ca",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:50.009370Z",
+     "iopub.status.busy": "2023-02-25T07:28:50.008924Z",
+     "iopub.status.idle": "2023-02-25T07:28:50.035239Z",
+     "shell.execute_reply": "2023-02-25T07:28:50.034074Z"
+    },
+    "papermill": {
+     "duration": 0.066901,
+     "end_time": "2023-02-25T07:28:50.037653",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:49.970752",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th>Survived</th>\n",
+       "      <th>0.0</th>\n",
+       "      <th>1.0</th>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>family</th>\n",
+       "      <th></th>\n",
+       "      <th></th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>68.123862</td>\n",
+       "      <td>47.660819</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>13.114754</td>\n",
+       "      <td>26.023392</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>7.832423</td>\n",
+       "      <td>17.251462</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>1.457195</td>\n",
+       "      <td>6.140351</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>2.185792</td>\n",
+       "      <td>0.877193</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>5</th>\n",
+       "      <td>3.460838</td>\n",
+       "      <td>0.877193</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>6</th>\n",
+       "      <td>1.457195</td>\n",
+       "      <td>1.169591</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>7</th>\n",
+       "      <td>1.092896</td>\n",
+       "      <td>0.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>10</th>\n",
+       "      <td>1.275046</td>\n",
+       "      <td>0.000000</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "Survived        0.0        1.0\n",
+       "family                        \n",
+       "0         68.123862  47.660819\n",
+       "1         13.114754  26.023392\n",
+       "2          7.832423  17.251462\n",
+       "3          1.457195   6.140351\n",
+       "4          2.185792   0.877193\n",
+       "5          3.460838   0.877193\n",
+       "6          1.457195   1.169591\n",
+       "7          1.092896   0.000000\n",
+       "10         1.275046   0.000000"
+      ]
+     },
+     "execution_count": 75,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pd.crosstab(df['family'], df['Survived'], normalize='columns')*100"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 76,
+   "id": "85726e91",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:50.113269Z",
+     "iopub.status.busy": "2023-02-25T07:28:50.112593Z",
+     "iopub.status.idle": "2023-02-25T07:28:50.118044Z",
+     "shell.execute_reply": "2023-02-25T07:28:50.117278Z"
+    },
+    "papermill": {
+     "duration": 0.045872,
+     "end_time": "2023-02-25T07:28:50.120193",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:50.074321",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "def update_family_size(family):\n",
+    "    if family <= 1:\n",
+    "        return 'alone'\n",
+    "    elif family >= 2 and family < 4:\n",
+    "        return 'small'\n",
+    "    else:\n",
+    "        return 'large'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 77,
+   "id": "6cf85c9c",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:50.196343Z",
+     "iopub.status.busy": "2023-02-25T07:28:50.195676Z",
+     "iopub.status.idle": "2023-02-25T07:28:50.202316Z",
+     "shell.execute_reply": "2023-02-25T07:28:50.201441Z"
+    },
+    "papermill": {
+     "duration": 0.047318,
+     "end_time": "2023-02-25T07:28:50.204576",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:50.157258",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "df['family_size'] = df['family'].apply(update_family_size)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 78,
+   "id": "f28b98ff",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:50.280309Z",
+     "iopub.status.busy": "2023-02-25T07:28:50.279606Z",
+     "iopub.status.idle": "2023-02-25T07:28:50.299319Z",
+     "shell.execute_reply": "2023-02-25T07:28:50.297900Z"
+    },
+    "papermill": {
+     "duration": 0.061062,
+     "end_time": "2023-02-25T07:28:50.302557",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:50.241495",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>PassengerId</th>\n",
+       "      <th>Survived</th>\n",
+       "      <th>Pclass</th>\n",
+       "      <th>Name</th>\n",
+       "      <th>Sex</th>\n",
+       "      <th>Age</th>\n",
+       "      <th>SibSp</th>\n",
+       "      <th>Parch</th>\n",
+       "      <th>Ticket</th>\n",
+       "      <th>Fare</th>\n",
+       "      <th>Cabin</th>\n",
+       "      <th>Embarked</th>\n",
+       "      <th>family</th>\n",
+       "      <th>IndividualFare</th>\n",
+       "      <th>family_size</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>1</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Braund, Mr. Owen Harris</td>\n",
+       "      <td>male</td>\n",
+       "      <td>22.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>A/5 21171</td>\n",
+       "      <td>7.2500</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>1</td>\n",
+       "      <td>3.62500</td>\n",
+       "      <td>alone</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>2</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n",
+       "      <td>female</td>\n",
+       "      <td>38.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>PC 17599</td>\n",
+       "      <td>71.2833</td>\n",
+       "      <td>C85</td>\n",
+       "      <td>C</td>\n",
+       "      <td>1</td>\n",
+       "      <td>35.64165</td>\n",
+       "      <td>alone</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>3</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Heikkinen, Miss. Laina</td>\n",
+       "      <td>female</td>\n",
+       "      <td>26.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>STON/O2. 3101282</td>\n",
+       "      <td>7.9250</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>7.92500</td>\n",
+       "      <td>alone</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>4</td>\n",
+       "      <td>1.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n",
+       "      <td>female</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>1</td>\n",
+       "      <td>0</td>\n",
+       "      <td>113803</td>\n",
+       "      <td>53.1000</td>\n",
+       "      <td>C123</td>\n",
+       "      <td>S</td>\n",
+       "      <td>1</td>\n",
+       "      <td>26.55000</td>\n",
+       "      <td>alone</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>5</td>\n",
+       "      <td>0.0</td>\n",
+       "      <td>3</td>\n",
+       "      <td>Allen, Mr. William Henry</td>\n",
+       "      <td>male</td>\n",
+       "      <td>35.0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>0</td>\n",
+       "      <td>373450</td>\n",
+       "      <td>8.0500</td>\n",
+       "      <td>NaN</td>\n",
+       "      <td>S</td>\n",
+       "      <td>0</td>\n",
+       "      <td>8.05000</td>\n",
+       "      <td>alone</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "   PassengerId  Survived  Pclass  \\\n",
+       "0            1       0.0       3   \n",
+       "1            2       1.0       1   \n",
+       "2            3       1.0       3   \n",
+       "3            4       1.0       1   \n",
+       "4            5       0.0       3   \n",
+       "\n",
+       "                                                Name     Sex   Age  SibSp  \\\n",
+       "0                            Braund, Mr. Owen Harris    male  22.0      1   \n",
+       "1  Cumings, Mrs. John Bradley (Florence Briggs Th...  female  38.0      1   \n",
+       "2                             Heikkinen, Miss. Laina  female  26.0      0   \n",
+       "3       Futrelle, Mrs. Jacques Heath (Lily May Peel)  female  35.0      1   \n",
+       "4                           Allen, Mr. William Henry    male  35.0      0   \n",
+       "\n",
+       "   Parch            Ticket     Fare Cabin Embarked  family  IndividualFare  \\\n",
+       "0      0         A/5 21171   7.2500   NaN        S       1         3.62500   \n",
+       "1      0          PC 17599  71.2833   C85        C       1        35.64165   \n",
+       "2      0  STON/O2. 3101282   7.9250   NaN        S       0         7.92500   \n",
+       "3      0            113803  53.1000  C123        S       1        26.55000   \n",
+       "4      0            373450   8.0500   NaN        S       0         8.05000   \n",
+       "\n",
+       "  family_size  \n",
+       "0       alone  \n",
+       "1       alone  \n",
+       "2       alone  \n",
+       "3       alone  \n",
+       "4       alone  "
+      ]
+     },
+     "execution_count": 78,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df.head()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 79,
+   "id": "db7bf3f7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-25T07:28:50.379192Z",
+     "iopub.status.busy": "2023-02-25T07:28:50.378512Z",
+     "iopub.status.idle": "2023-02-25T07:28:50.401783Z",
+     "shell.execute_reply": "2023-02-25T07:28:50.400582Z"
+    },
+    "papermill": {
+     "duration": 0.064264,
+     "end_time": "2023-02-25T07:28:50.404253",
+     "exception": false,
+     "start_time": "2023-02-25T07:28:50.339989",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th>family_size</th>\n",
+       "      <th>alone</th>\n",
+       "      <th>large</th>\n",
+       "      <th>small</th>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>Survived</th>\n",
+       "      <th></th>\n",
+       "      <th></th>\n",
+       "      <th></th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0.0</th>\n",
+       "      <td>63.896848</td>\n",
+       "      <td>83.870968</td>\n",
+       "      <td>38.931298</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1.0</th>\n",
+       "      <td>36.103152</td>\n",
+       "      <td>16.129032</td>\n",
+       "      <td>61.068702</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "family_size      alone      large      small\n",
+       "Survived                                    \n",
+       "0.0          63.896848  83.870968  38.931298\n",
+       "1.0          36.103152  16.129032  61.068702"
+      ]
+     },
+     "execution_count": 79,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pd.crosstab(df['Survived'], df['family_size'], normalize='columns')*100"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "fcb045e7",
+   "id": "38896d40",
    "metadata": {
     "papermill": {
-     "duration": 0.029535,
-     "end_time": "2023-02-25T06:57:15.091609",
+     "duration": 0.036612,
+     "end_time": "2023-02-25T07:28:50.478153",
      "exception": false,
-     "start_time": "2023-02-25T06:57:15.062074",
+     "start_time": "2023-02-25T07:28:50.441541",
      "status": "completed"
     },
     "tags": []
@@ -3995,13 +6129,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "dce76fd1",
+   "id": "12271943",
    "metadata": {
     "papermill": {
-     "duration": 0.030768,
-     "end_time": "2023-02-25T06:57:15.152202",
+     "duration": 0.036745,
+     "end_time": "2023-02-25T07:28:50.552467",
      "exception": false,
-     "start_time": "2023-02-25T06:57:15.121434",
+     "start_time": "2023-02-25T07:28:50.515722",
      "status": "completed"
     },
     "tags": []
@@ -4030,14 +6164,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 20.929207,
-   "end_time": "2023-02-25T06:57:16.007023",
+   "duration": 22.730226,
+   "end_time": "2023-02-25T07:28:51.478247",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-02-25T06:56:55.077816",
+   "start_time": "2023-02-25T07:28:28.748021",
    "version": "2.3.4"
   }
  },
